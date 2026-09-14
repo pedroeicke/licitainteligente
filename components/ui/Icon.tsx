@@ -158,7 +158,7 @@ export function CheckBullet({ tone = "brand" }: { tone?: "brand" | "light" }) {
     <span
       className={
         "mt-0.5 grid h-5 w-5 shrink-0 place-items-center rounded-full " +
-        (tone === "brand" ? "bg-brand-500 text-white" : "bg-white text-brand-600")
+        (tone === "brand" ? "bg-brand-500 text-white" : "bg-card text-brand-600")
       }
     >
       <svg viewBox="0 0 24 24" className="h-3 w-3" fill="none" stroke="currentColor" strokeWidth="3">

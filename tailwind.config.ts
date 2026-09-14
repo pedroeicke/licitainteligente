@@ -9,24 +9,27 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // Base clara
-        paper: "#FFFFFF",
-        mist: "#F5F7FB",
-        // Tipografia / blocos escuros
-        ink: "#0B0D12",
-        inkSoft: "#3A4150",
-        muted: "#6B7280",
-        line: "#E6E9F0",
-        // Azul de destaque
+        // Paleta PS26: azul-marinho profundo + azul elétrico
+        paper: "#020A1A", // fundo principal
+        mist: "#061127", // seções alternadas / elementos internos
+        deep: "#000613", // blocos mais escuros
+        card: "#0A1730",
+        cardSoft: "#0E1F3C",
+        // Tipografia (sobre fundo escuro)
+        ink: "#FFFFFF",
+        inkSoft: "rgba(255,255,255,0.72)",
+        muted: "rgba(255,255,255,0.55)",
+        line: "rgba(255,255,255,0.10)",
+        // Destaque
         brand: {
-          50: "#EEF3FF",
-          100: "#DCE6FF",
-          200: "#B9CCFF",
-          400: "#5B84FF",
-          500: "#2F5FFF",
-          600: "#1F4AE6",
-          700: "#1A3CB8",
-          900: "#0E1F5C",
+          50: "#0B2A4F",
+          100: "#123B6B",
+          200: "#2E7FC4",
+          400: "#5BC0FF",
+          500: "#1FA9FF",
+          600: "#1FA9FF",
+          700: "#5BC0FF",
+          900: "#BFE6FF",
         },
       },
       fontFamily: {
@@ -37,8 +40,8 @@ const config: Config = {
         container: "1240px",
       },
       boxShadow: {
-        soft: "0 1px 2px rgba(11,13,18,0.04), 0 12px 32px -12px rgba(11,13,18,0.12)",
-        lift: "0 2px 4px rgba(11,13,18,0.04), 0 28px 60px -20px rgba(31,74,230,0.28)",
+        soft: "0 1px 0 rgba(255,255,255,0.04) inset, 0 20px 40px -20px rgba(0,0,0,0.6)",
+        lift: "0 30px 60px -25px rgba(31,169,255,0.35)",
       },
       animation: {
         marquee: "marquee var(--duration, 40s) linear infinite",

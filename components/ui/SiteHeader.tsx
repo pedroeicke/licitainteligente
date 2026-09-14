@@ -24,14 +24,14 @@ export function SiteHeader() {
         className={clsx(
           "mx-auto max-w-container rounded-2xl border transition-all duration-500",
           scrolled || open
-            ? "border-line bg-white/85 shadow-soft backdrop-blur-xl"
+            ? "border-line bg-paper/75 shadow-soft backdrop-blur-xl"
             : "border-transparent bg-transparent"
         )}
       >
         <div className="flex h-16 items-center justify-between px-4 md:px-5">
           <Link href="/" aria-label="Licitações Inteligentes" className="shrink-0">
             <Image
-              src="/brand/logo-black.png"
+              src="/brand/logo.png"
               alt="Licitações Inteligentes"
               width={927}
               height={109}
@@ -63,14 +63,14 @@ export function SiteHeader() {
             </a>
             <Link
               href="/#contato"
-              className="hidden rounded-full bg-ink px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-brand-500 sm:inline-flex"
+              className="hidden rounded-full bg-brand-500 px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-brand-400 sm:inline-flex"
             >
               Fale conosco
             </Link>
             <button
               type="button"
               onClick={() => setOpen((v) => !v)}
-              className="grid h-10 w-10 place-items-center rounded-full border border-line bg-white text-ink lg:hidden"
+              className="grid h-10 w-10 place-items-center rounded-full border border-line bg-card text-ink lg:hidden"
               aria-label={open ? "Fechar menu" : "Abrir menu"}
               aria-expanded={open}
             >

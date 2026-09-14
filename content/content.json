@@ -446,6 +446,14 @@
         ],
         "publications": [
           {
+            "ref": "CAPAGIO, Álvaro. Direito da Infraestrutura da Qualidade. 1. ed. Saraiva Jur, 2026.",
+            "url": "https://www.amazon.com.br/dp/6551772498"
+          },
+          {
+            "ref": "CAPAGIO, Álvaro; FRIGERI, Murilo; BARATIERI, Noel (Coord.). Temas de Contratações da Segurança Pública. Habitus Editora, 2026.",
+            "url": "https://www.amazon.com.br/dp/6550352525"
+          },
+          {
             "ref": "COUTO, Reinaldo; CAPAGIO, Álvaro do Canto. Curso de Direito Administrativo. 5. ed. São Paulo: Saraiva, 2022.",
             "note": "Cupom de desconto: VALECAPAGIO",
             "url": "https://www.editoradodireito.com.br/livro-curso-de-direito-administrativo-reinaldo-de-souza-couto-filho-saraiva-jur-9786553621879"
@@ -776,7 +784,12 @@
           }
         ],
         "history": [],
-        "publications": [],
+        "publications": [
+          {
+            "ref": "Coautora em: CAPAGIO, Álvaro; FRIGERI, Murilo; BARATIERI, Noel (Coord.). Temas de Contratações da Segurança Pública. Habitus Editora, 2026.",
+            "url": "https://www.amazon.com.br/dp/6550352525"
+          }
+        ],
         "group": "Advocacia pública"
       },
       {
@@ -815,7 +828,12 @@
           }
         ],
         "history": [],
-        "publications": [],
+        "publications": [
+          {
+            "ref": "CAPAGIO, Álvaro; FRIGERI, Murilo; BARATIERI, Noel (Coord.). Temas de Contratações da Segurança Pública. Habitus Editora, 2026.",
+            "url": "https://www.amazon.com.br/dp/6550352525"
+          }
+        ],
         "group": "Defesa e segurança"
       },
       {
@@ -840,6 +858,10 @@
         ],
         "history": [],
         "publications": [
+          {
+            "ref": "CAPAGIO, Álvaro; FRIGERI, Murilo; BARATIERI, Noel (Coord.). Temas de Contratações da Segurança Pública. Habitus Editora, 2026.",
+            "url": "https://www.amazon.com.br/dp/6550352525"
+          },
           {
             "ref": "BARATIERI, Noel Antonio. O método de negociação de Harvard na Administração Pública consensual. Porto Alegre: Livraria do Advogado, 2022.",
             "url": "https://www.livrariadoadvogado.com.br/administrativo/administracao-publica/metodo-de-negociacao-de-harvard-na-administracao-publica-consensual-o"
@@ -1071,6 +1093,22 @@
     "badge": "Publicações",
     "title": "Obras de referência escritas pelos nossos talentos",
     "items": [
+      {
+        "title": "Direito da Infraestrutura da Qualidade",
+        "authors": "Álvaro Capagio",
+        "publisher": "Saraiva Jur · 2026",
+        "cover": "/livros/direito-infraestrutura-qualidade.jpg",
+        "url": "https://www.amazon.com.br/dp/6551772498",
+        "desc": "Reúne estudos motivados pela necessidade de melhorar a qualidade da execução orçamentária mediante o uso de certificações em contratações públicas. A obra percorre normas técnicas, certificações, acreditação, regulação e contratações públicas, a partir da experiência do autor na liderança de projetos nacionais — desde soluções técnicas para a aquisição de produtos até a avaliação da conformidade de empreendimentos de infraestruturas críticas."
+      },
+      {
+        "title": "Temas de Contratações da Segurança Pública",
+        "authors": "Coord. Álvaro Capagio · Murilo Frigeri · Noel Baratieri",
+        "publisher": "Habitus Editora · 2026",
+        "cover": "/livros/temas-contratacoes-seguranca-publica.jpg",
+        "url": "https://www.amazon.com.br/dp/6550352525",
+        "desc": "Obra coletiva que reúne especialistas com sólida experiência prática e acadêmica para discutir as contratações voltadas à segurança pública, com abordagem multidisciplinar que conecta aspectos jurídicos, operacionais e técnicos: aquisição de armamentos, veículos blindados, certificações de materiais bélicos, treinamento policial, licitações internacionais e governança nas compras públicas."
+      },
       {
         "title": "Nova Lei de Licitações e Contratos Administrativos",
         "authors": "Álvaro do Canto Capagio · Reinaldo Couto",

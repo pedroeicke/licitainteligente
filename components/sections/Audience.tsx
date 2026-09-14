@@ -25,7 +25,7 @@ export function Audience() {
 
         <div className="mt-14 grid grid-cols-1 gap-4 lg:grid-cols-2">
           <Reveal className="h-full">
-            <article className="relative flex h-full flex-col overflow-hidden rounded-[28px] bg-white p-8 shadow-soft md:p-10">
+            <article className="relative flex h-full flex-col overflow-hidden rounded-[28px] bg-card p-8 shadow-soft md:p-10">
               <div className="flex items-center justify-between">
                 <span className="grid h-14 w-14 place-items-center rounded-2xl bg-brand-500 text-white">
                   <Icon name="gov" size={26} />
@@ -50,13 +50,13 @@ export function Audience() {
           </Reveal>
 
           <Reveal delay={0.08} className="h-full">
-            <article className="relative flex h-full flex-col overflow-hidden rounded-[28px] bg-ink p-8 text-white md:p-10">
+            <article className="relative flex h-full flex-col overflow-hidden rounded-[28px] border border-line bg-deep p-8 text-white md:p-10">
               <div
                 aria-hidden
                 className="absolute -right-24 -top-24 h-72 w-72 rounded-full opacity-40 blur-3xl"
-                style={{ background: "radial-gradient(closest-side, #2F5FFF, transparent)" }}
+                style={{ background: "radial-gradient(closest-side, #1FA9FF, transparent)" }}
               />
-              <span className="relative grid h-14 w-14 place-items-center rounded-2xl bg-white text-ink">
+              <span className="relative grid h-14 w-14 place-items-center rounded-2xl bg-card text-ink">
                 <Icon name="briefcase" size={26} />
               </span>
               <p className="relative mt-8 text-sm font-semibold uppercase tracking-[0.16em] text-brand-200">{proposal.business.label}</p>
@@ -83,7 +83,7 @@ export function Audience() {
         </div>
 
         <Reveal delay={0.1}>
-          <div className="mt-4 flex flex-wrap justify-center gap-2 rounded-[28px] border border-line bg-white p-5">
+          <div className="mt-4 flex flex-wrap justify-center gap-2 rounded-[28px] border border-line bg-card p-5">
             {publicAudience.list.map((p) => (
               <span key={p} className="rounded-full bg-mist px-4 py-2 text-sm text-inkSoft">
                 {p}

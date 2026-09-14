@@ -24,10 +24,10 @@ export function Button({
     "group inline-flex items-center justify-center gap-2.5 rounded-full font-semibold transition-all duration-300",
     size === "lg" ? "px-7 py-4 text-[15px]" : "px-5 py-3 text-sm",
     {
-      primary: "bg-brand-500 text-white shadow-[0_10px_30px_-10px_rgba(47,95,255,0.7)] hover:bg-brand-600 hover:-translate-y-0.5",
-      dark: "bg-ink text-white hover:bg-brand-600 hover:-translate-y-0.5",
-      outline: "border border-line bg-white text-ink hover:border-ink hover:-translate-y-0.5",
-      light: "bg-white text-ink hover:bg-brand-50 hover:-translate-y-0.5",
+      primary: "bg-brand-500 text-white shadow-[0_10px_30px_-10px_rgba(31,169,255,0.7)] hover:bg-brand-400 hover:shadow-[0_0_40px_rgba(31,169,255,0.55)] hover:-translate-y-0.5",
+      dark: "border border-white/15 bg-white/[0.04] text-white backdrop-blur hover:border-brand-400 hover:text-brand-400 hover:-translate-y-0.5",
+      outline: "border border-white/15 bg-white/[0.03] text-white backdrop-blur hover:border-brand-400 hover:text-brand-400 hover:-translate-y-0.5",
+      light: "bg-card text-paper hover:bg-brand-400 hover:text-white hover:-translate-y-0.5",
       ghostLight: "border border-white/25 text-white hover:bg-white/10",
     }[variant],
     className

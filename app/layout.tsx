@@ -41,7 +41,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pt-BR" className={`${sans.variable} ${serif.variable}`}>
-      <body className="bg-paper font-sans text-ink antialiased">
+      <body className="bg-transparent font-sans text-ink antialiased">
         <SmoothScroll />
         <SiteHeader />
         {children}

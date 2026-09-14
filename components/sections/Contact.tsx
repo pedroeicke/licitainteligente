@@ -46,10 +46,10 @@ export function Contact() {
       </section>
 
       <section id="contato" className="scroll-mt-24 px-3 pb-3 md:px-6 md:pb-6">
-        <div className="relative mx-auto max-w-[1400px] overflow-hidden rounded-[36px] bg-brand-500 px-6 py-20 text-white md:px-12 md:py-24">
+        <div className="relative mx-auto max-w-[1400px] overflow-hidden rounded-[36px] bg-accent-grad px-6 py-20 text-white md:px-12 md:py-24">
           <div
             aria-hidden
-            className="absolute -bottom-40 -left-20 h-[520px] w-[520px] rounded-full bg-brand-700 opacity-70 blur-[100px]"
+            className="absolute -bottom-40 -left-20 h-[520px] w-[520px] rounded-full bg-[#124ba3] opacity-70 blur-[100px]"
           />
 
           <div className="relative mx-auto grid max-w-container grid-cols-1 gap-12 lg:grid-cols-12">
@@ -77,7 +77,7 @@ export function Contact() {
                         rel="noopener noreferrer"
                         className="group flex items-center gap-4 rounded-2xl bg-white/10 p-4 backdrop-blur transition-colors hover:bg-white/20"
                       >
-                        <span className="grid h-11 w-11 shrink-0 place-items-center rounded-xl bg-white text-brand-600">{c.icon}</span>
+                        <span className="grid h-11 w-11 shrink-0 place-items-center rounded-xl bg-card text-brand-600">{c.icon}</span>
                         <span className="min-w-0">
                           <span className="block text-xs uppercase tracking-[0.16em] text-white/60">{c.label}</span>
                           <span className="block break-words font-medium">{c.value}</span>
@@ -90,7 +90,7 @@ export function Contact() {
             </div>
 
             <Reveal delay={0.15} className="lg:col-span-7">
-              <div className="rounded-[28px] bg-white p-6 text-ink shadow-[0_40px_80px_-30px_rgba(14,31,92,0.6)] md:p-9">
+              <div className="rounded-[28px] bg-card p-6 text-ink shadow-[0_40px_80px_-30px_rgba(14,31,92,0.6)] md:p-9">
                 <h3 className="text-xl font-semibold tracking-tight">Entre em contato para mais informações</h3>
                 <p className="mt-1 text-sm text-muted">Respondemos com a melhor solução para a sua organização.</p>
                 <div className="mt-7">

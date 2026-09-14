@@ -52,7 +52,7 @@ export function Talents() {
                   onClick={() => setGroup(g)}
                   className={clsx(
                     "shrink-0 rounded-full border px-4 py-2 text-sm font-medium transition-all",
-                    active ? "border-ink bg-ink text-white" : "border-line bg-white text-inkSoft hover:border-ink hover:text-ink"
+                    active ? "border-brand-500 bg-brand-500 text-white" : "border-line bg-card text-inkSoft hover:border-brand-400 hover:text-white"
                   )}
                 >
                   {g} <span className={clsx("ml-1 tabular-nums", active ? "text-white/60" : "text-muted")}>{count}</span>
@@ -82,8 +82,8 @@ export function Talents() {
                       sizes="(max-width: 768px) 50vw, 25vw"
                       className="object-cover object-top transition-transform duration-700 group-hover:scale-105"
                     />
-                    <div className="absolute inset-0 bg-gradient-to-t from-brand-900/70 via-transparent to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
-                    <span className="absolute left-3 top-3 rounded-full bg-white/90 px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider text-ink backdrop-blur">
+                    <div className="absolute inset-0 bg-gradient-to-t from-paper/80 via-transparent to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
+                    <span className="absolute left-3 top-3 rounded-full bg-paper/75 text-white px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider text-ink backdrop-blur">
                       {t.group}
                     </span>
                     <span className="absolute bottom-3 right-3 grid h-10 w-10 translate-y-3 place-items-center rounded-full bg-brand-500 text-white opacity-0 transition-all duration-500 group-hover:translate-y-0 group-hover:opacity-100">

@@ -24,12 +24,12 @@ export function Hero() {
       <div
         aria-hidden
         className="pointer-events-none absolute -right-40 -top-40 h-[720px] w-[720px] rounded-full opacity-60 blur-[120px]"
-        style={{ background: "radial-gradient(closest-side, #B9CCFF, transparent)" }}
+        style={{ background: "radial-gradient(closest-side, rgba(31,169,255,0.35), transparent)" }}
       />
       <div
         aria-hidden
         className="pointer-events-none absolute -left-60 bottom-0 h-[500px] w-[500px] rounded-full opacity-40 blur-[120px]"
-        style={{ background: "radial-gradient(closest-side, #DCE6FF, transparent)" }}
+        style={{ background: "radial-gradient(closest-side, rgba(13,108,200,0.35), transparent)" }}
       />
 
       <div className="relative mx-auto grid max-w-container grid-cols-1 items-center gap-14 px-6 lg:grid-cols-12 lg:gap-12">
@@ -105,7 +105,7 @@ export function Hero() {
               transition={{ duration: 0.8, delay: 0.9, ease }}
               className="absolute -bottom-16 -left-4 hidden sm:block md:-left-12"
             >
-              <div className="animate-float flex items-center gap-3 rounded-2xl bg-ink px-4 py-3 text-white shadow-lift">
+              <div className="animate-float flex items-center gap-3 rounded-2xl border border-line bg-card px-4 py-3 text-white shadow-lift">
                 <span className="grid h-9 w-9 place-items-center rounded-xl bg-brand-500">
                   <Icon name="award" size={18} />
                 </span>

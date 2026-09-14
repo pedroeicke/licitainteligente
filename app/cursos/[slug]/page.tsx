@@ -69,7 +69,7 @@ export default function CoursePage({ params }: Params) {
         <div className="mt-14 grid grid-cols-2 gap-3 lg:grid-cols-4">
           {facts.map((f, i) => (
             <Reveal key={f.label} delay={0.2 + i * 0.05} className="h-full">
-              <div className="h-full rounded-2xl border border-line bg-white p-5">
+              <div className="h-full rounded-2xl border border-line bg-card p-5">
                 <span className="grid h-9 w-9 place-items-center rounded-lg bg-brand-50 text-brand-600">
                   <Icon name={f.icon} size={18} />
                 </span>
@@ -84,14 +84,14 @@ export default function CoursePage({ params }: Params) {
       <section className="bg-mist py-20 md:py-24">
         <div className="mx-auto grid max-w-container grid-cols-1 gap-6 px-6 lg:grid-cols-12">
           <Reveal className="lg:col-span-5">
-            <div className="rounded-[28px] bg-white p-7 md:p-9 lg:sticky lg:top-28">
+            <div className="rounded-[28px] bg-card p-7 md:p-9 lg:sticky lg:top-28">
               <h2 className="text-2xl font-semibold tracking-tight">Descrição</h2>
               <p className="mt-5 leading-relaxed text-inkSoft">{course.description}</p>
             </div>
           </Reveal>
 
           <Reveal delay={0.05} className="lg:col-span-7">
-            <div className="rounded-[28px] bg-white p-7 md:p-9">
+            <div className="rounded-[28px] bg-card p-7 md:p-9">
               <div className="flex items-center justify-between gap-4">
                 <h2 className="text-2xl font-semibold tracking-tight">Ementa</h2>
                 <span className="rounded-full bg-brand-50 px-3 py-1.5 text-xs font-semibold text-brand-700">{course.ementa.length} tópicos</span>
@@ -108,7 +108,7 @@ export default function CoursePage({ params }: Params) {
           </Reveal>
 
           <Reveal className="lg:col-span-12">
-            <div className="rounded-[28px] bg-ink p-7 text-white md:p-9">
+            <div className="rounded-[28px] border border-line bg-deep p-7 text-white md:p-9">
               <h2 className="text-2xl font-semibold tracking-tight">Público-alvo</h2>
               <ul className="mt-6 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
                 {course.publico.map((p) => (
@@ -133,7 +133,7 @@ export default function CoursePage({ params }: Params) {
                   href={`/cursos/${o.slug}`}
                   className="group flex h-full flex-col gap-4 rounded-[28px] border border-line p-6 transition-all duration-500 hover:-translate-y-1 hover:border-brand-200 hover:shadow-lift"
                 >
-                  <span className="grid h-12 w-12 place-items-center rounded-2xl bg-ink text-white transition-colors group-hover:bg-brand-500">
+                  <span className="grid h-12 w-12 place-items-center rounded-2xl bg-cardSoft text-brand-400 transition-colors group-hover:bg-brand-500 group-hover:text-white">
                     <Icon name={o.icon} size={22} />
                   </span>
                   <h3 className="text-lg font-semibold leading-snug">{o.title}</h3>

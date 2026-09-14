@@ -12,7 +12,7 @@ export function Footer() {
       <div className="mx-auto max-w-container px-6">
         <div className="grid grid-cols-1 gap-10 md:grid-cols-12">
           <div className="md:col-span-4">
-            <Image src="/brand/logo-black.png" alt="Licitações Inteligentes" width={927} height={109} className="h-auto w-[210px]" />
+            <Image src="/brand/logo.png" alt="Licitações Inteligentes" width={927} height={109} className="h-auto w-[210px]" />
             <p className="mt-5 max-w-xs text-sm text-inkSoft">{footer.tagline}</p>
             <div className="mt-6 flex gap-2">
               {site.socials.map((s) => (

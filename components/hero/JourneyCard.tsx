@@ -51,7 +51,7 @@ export function JourneyCard() {
     <div
       onMouseEnter={() => setPaused(true)}
       onMouseLeave={() => setPaused(false)}
-      className="relative rounded-[28px] border border-line bg-white p-5 shadow-lift md:p-7"
+      className="relative rounded-[28px] border border-line bg-card p-5 shadow-lift md:p-7"
     >
       <div className="flex items-center justify-between gap-3">
         <div>
@@ -80,10 +80,10 @@ export function JourneyCard() {
                   className={clsx(
                     "relative z-10 grid h-10 w-10 shrink-0 place-items-center rounded-full border transition-all duration-500",
                     isActive
-                      ? "border-brand-500 bg-brand-500 text-white shadow-[0_8px_20px_-6px_rgba(47,95,255,0.7)]"
+                      ? "border-brand-500 bg-brand-500 text-white shadow-[0_8px_20px_-6px_rgba(31,169,255,0.7)]"
                       : done
                       ? "border-brand-200 bg-brand-50 text-brand-600"
-                      : "border-line bg-white text-muted"
+                      : "border-line bg-card text-muted"
                   )}
                 >
                   <Icon name={s.icon} size={18} strokeWidth={1.8} />

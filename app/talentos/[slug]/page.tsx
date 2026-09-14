@@ -45,7 +45,7 @@ export default function TalentPage({ params }: Params) {
           <Reveal className="md:col-span-5 lg:col-span-4">
             <div className="relative mx-auto aspect-[4/5] w-full max-w-[380px] overflow-hidden rounded-[32px] bg-mist shadow-lift md:mx-0">
               <Image src={talent.photo} alt={talent.name} fill priority sizes="(max-width: 768px) 90vw, 380px" className="object-cover object-top" />
-              <span className="absolute left-4 top-4 rounded-full bg-white/90 px-3 py-1.5 text-xs font-semibold backdrop-blur">
+              <span className="absolute left-4 top-4 rounded-full bg-paper/75 text-white px-3 py-1.5 text-xs font-semibold backdrop-blur">
                 {talent.group}
               </span>
             </div>
@@ -87,7 +87,7 @@ export default function TalentPage({ params }: Params) {
           <div className="flex flex-col gap-6 lg:col-span-8">
             {talent.sections.map((sec) => (
               <Reveal key={sec.title}>
-                <div className="rounded-[28px] bg-white p-7 md:p-9">
+                <div className="rounded-[28px] bg-card p-7 md:p-9">
                   <h2 className="text-xl font-semibold tracking-tight md:text-2xl">{sec.title}</h2>
                   <ul className="mt-6 flex flex-col divide-y divide-line">
                     {sec.items.map((it) => (
@@ -103,7 +103,7 @@ export default function TalentPage({ params }: Params) {
 
             {talent.history.length > 0 && (
               <Reveal>
-                <div className="rounded-[28px] bg-white p-7 md:p-9">
+                <div className="rounded-[28px] bg-card p-7 md:p-9">
                   <h2 className="text-xl font-semibold tracking-tight md:text-2xl">Histórico profissional</h2>
                   <div className="mt-6 flex flex-col gap-4">
                     {talent.history.map((p, i) => (
@@ -118,7 +118,7 @@ export default function TalentPage({ params }: Params) {
 
             {talent.publications.length > 0 && (
               <Reveal>
-                <div className="rounded-[28px] bg-white p-7 md:p-9">
+                <div className="rounded-[28px] bg-card p-7 md:p-9">
                   <h2 className="text-xl font-semibold tracking-tight md:text-2xl">Principais publicações</h2>
                   <ul className="mt-6 flex flex-col gap-3">
                     {talent.publications.map((pub, i) => {
@@ -141,7 +141,7 @@ export default function TalentPage({ params }: Params) {
                               href={p.url}
                               target="_blank"
                               rel="noopener noreferrer"
-                              className="inline-flex shrink-0 items-center gap-1.5 self-start rounded-full bg-ink px-4 py-2 text-xs font-semibold text-white transition-colors hover:bg-brand-500 md:self-auto"
+                              className="inline-flex shrink-0 items-center gap-1.5 self-start rounded-full bg-brand-500 px-4 py-2 text-xs font-semibold text-white transition-colors hover:bg-brand-400 md:self-auto"
                             >
                               Acessar <Icon name="arrow" size={12} strokeWidth={2} />
                             </a>
@@ -157,7 +157,7 @@ export default function TalentPage({ params }: Params) {
 
           <aside className="lg:col-span-4">
             <div className="flex flex-col gap-4 lg:sticky lg:top-28">
-              <div className="relative overflow-hidden rounded-[28px] bg-brand-500 p-7 text-white">
+              <div className="relative overflow-hidden rounded-[28px] bg-accent-grad p-7 text-white">
                 <h3 className="relative text-2xl font-semibold leading-tight tracking-tight">
                   Leve {first} para a sua{" "}
                   <span className="font-serif font-normal italic">organização</span>
@@ -173,11 +173,11 @@ export default function TalentPage({ params }: Params) {
               </div>
 
               <div className="grid grid-cols-2 gap-3">
-                <Link href={`/talentos/${prev.slug}`} className="rounded-2xl bg-white p-4 transition-shadow hover:shadow-soft">
+                <Link href={`/talentos/${prev.slug}`} className="rounded-2xl bg-card p-4 transition-shadow hover:shadow-soft">
                   <span className="text-xs text-muted">← Anterior</span>
                   <span className="mt-1 block text-sm font-semibold">{prev.name}</span>
                 </Link>
-                <Link href={`/talentos/${next.slug}`} className="rounded-2xl bg-white p-4 text-right transition-shadow hover:shadow-soft">
+                <Link href={`/talentos/${next.slug}`} className="rounded-2xl bg-card p-4 text-right transition-shadow hover:shadow-soft">
                   <span className="text-xs text-muted">Próximo →</span>
                   <span className="mt-1 block text-sm font-semibold">{next.name}</span>
                 </Link>

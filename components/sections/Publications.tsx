@@ -52,7 +52,7 @@ export function Publications() {
                   </div>
                   <div>
                     <div className="flex flex-wrap items-center gap-2 text-xs">
-                      <span className="rounded-full bg-white px-3 py-1 font-semibold">{b.publisher}</span>
+                      <span className="rounded-full bg-card px-3 py-1 font-semibold">{b.publisher}</span>
                       <span className="text-muted">{b.authors}</span>
                     </div>
                     <h3 className="mt-4 text-2xl font-semibold leading-tight tracking-tight md:text-3xl">{b.title}</h3>

@@ -12,7 +12,7 @@ export function PageIntro({ crumbs, children }: Props) {
       <div
         aria-hidden
         className="pointer-events-none absolute -right-40 -top-40 h-[600px] w-[600px] rounded-full opacity-60 blur-[120px]"
-        style={{ background: "radial-gradient(closest-side, #B9CCFF, transparent)" }}
+        style={{ background: "radial-gradient(closest-side, rgba(31,169,255,0.35), transparent)" }}
       />
       <div className="relative mx-auto max-w-container px-6">
         <nav aria-label="Breadcrumb" className="flex flex-wrap items-center gap-2 text-sm text-muted">

@@ -17,7 +17,7 @@ export function Accordion({ items }: { items: Item[] }) {
           <div
             key={i}
             className={clsx(
-              "rounded-2xl border bg-white transition-colors",
+              "rounded-2xl border bg-card transition-colors",
               isOpen ? "border-brand-200 shadow-soft" : "border-line hover:border-brand-200"
             )}
           >

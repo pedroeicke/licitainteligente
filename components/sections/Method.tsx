@@ -11,11 +11,11 @@ export function Method() {
 
   return (
     <section className="px-3 md:px-6">
-      <div className="relative mx-auto max-w-[1400px] overflow-hidden rounded-[36px] bg-ink px-6 py-20 text-white md:px-12 md:py-28">
+      <div className="relative mx-auto max-w-[1400px] overflow-hidden rounded-[36px] border border-line bg-deep px-6 py-20 text-white md:px-12 md:py-28">
         <div
           aria-hidden
           className="absolute -left-40 top-0 h-[560px] w-[560px] rounded-full opacity-50 blur-[120px]"
-          style={{ background: "radial-gradient(closest-side, #2F5FFF, transparent)" }}
+          style={{ background: "radial-gradient(closest-side, #1FA9FF, transparent)" }}
         />
 
         <div className="relative mx-auto max-w-container">
@@ -51,7 +51,7 @@ export function Method() {
               {method.items.map((s, i) => (
                 <Reveal key={s.title} delay={0.15 + i * 0.12}>
                   <li className="relative">
-                    <span className="relative grid h-10 w-10 place-items-center rounded-full bg-brand-500 text-sm font-semibold ring-8 ring-ink">
+                    <span className="relative grid h-10 w-10 place-items-center rounded-full bg-brand-500 text-sm font-semibold ring-8 ring-deep">
                       {i + 1}
                     </span>
                     <h3 className="mt-6 text-xl font-semibold">{s.title}</h3>

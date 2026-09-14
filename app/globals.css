@@ -4,11 +4,24 @@
 
 html,
 body {
-  background: #FFFFFF;
-  color: #0B0D12;
+  background: #020A1A;
+  color: #FFFFFF;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+}
+
+/* Base marinho com leves luzes azuis (mesma atmosfera do PS26) */
+body {
+  background:
+    radial-gradient(1200px 800px at 50% -200px, rgba(31,169,255,0.10), transparent 60%),
+    radial-gradient(800px 600px at 100% 100%, rgba(13,108,200,0.10), transparent 60%),
+    #020A1A;
+}
+
+/* Degradê de destaque (cards e blocos azuis) */
+.bg-accent-grad {
+  background: linear-gradient(155deg, #124ba3 0%, #1FA9FF 60%, #5BC0FF 100%);
 }
 
 html.lenis,
@@ -33,8 +46,8 @@ html.lenis body {
 }
 
 ::selection {
-  background: #2F5FFF;
-  color: #FFFFFF;
+  background: #1FA9FF;
+  color: #020A1A;
 }
 
 .no-scrollbar::-webkit-scrollbar {

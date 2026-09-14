@@ -24,7 +24,7 @@ function CourseList({ area }: { area: Area }) {
           initial={{ opacity: 0, y: 8 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.35, delay: Math.min(i * 0.02, 0.3), ease }}
-          className="flex items-start gap-3 rounded-xl border border-line bg-white px-4 py-3 text-sm leading-snug"
+          className="flex items-start gap-3 rounded-xl border border-line bg-card px-4 py-3 text-sm leading-snug"
         >
           <span className="mt-[5px] h-1.5 w-1.5 shrink-0 rounded-full bg-brand-500" />
           {c}
@@ -104,26 +104,26 @@ export function Areas() {
                       onClick={() => selectDesktop(i)}
                       className={clsx(
                         "relative flex w-full items-center gap-4 rounded-2xl px-5 py-4 text-left transition-colors duration-300",
-                        isActive ? "text-white" : "bg-white text-ink hover:bg-brand-50"
+                        isActive ? "text-white" : "bg-card text-ink hover:bg-brand-50"
                       )}
                     >
                       {isActive && (
                         <motion.span
                           layoutId="area-active"
-                          className="absolute inset-0 rounded-2xl bg-ink"
+                          className="absolute inset-0 rounded-2xl bg-brand-500"
                           transition={{ type: "spring", stiffness: 400, damping: 36 }}
                         />
                       )}
                       <span
                         className={clsx(
                           "relative grid h-10 w-10 shrink-0 place-items-center rounded-xl transition-colors",
-                          isActive ? "bg-brand-500 text-white" : "bg-brand-50 text-brand-600"
+                          isActive ? "bg-white/20 text-white" : "bg-brand-50 text-brand-600"
                         )}
                       >
                         <Icon name={AREA_ICONS[i]} size={20} />
                       </span>
                       <span className="relative flex-1 font-semibold leading-tight">{a.title}</span>
-                      <span className={clsx("relative text-xs font-medium tabular-nums", isActive ? "text-white/60" : "text-muted")}>
+                      <span className={clsx("relative text-xs font-medium tabular-nums", isActive ? "text-white/80" : "text-muted")}>
                         {a.courses.length}
                       </span>
                     </button>
@@ -133,7 +133,7 @@ export function Areas() {
             </ul>
           </aside>
 
-          <div ref={panelRef} className="col-span-8 rounded-[28px] border border-line bg-white p-9" role="tabpanel">
+          <div ref={panelRef} className="col-span-8 rounded-[28px] border border-line bg-card p-9" role="tabpanel">
             <AnimatePresence mode="wait" initial={false}>
               <motion.div
                 key={area.slug}
@@ -166,7 +166,7 @@ export function Areas() {
           {areas.items.map((a, i) => {
             const isOpen = openMobile === i;
             return (
-              <li key={a.slug} className={clsx("overflow-hidden rounded-2xl border bg-white transition-colors", isOpen ? "border-brand-200" : "border-line")}>
+              <li key={a.slug} className={clsx("overflow-hidden rounded-2xl border bg-card transition-colors", isOpen ? "border-brand-200" : "border-line")}>
                 <button
                   type="button"
                   onClick={() => setOpenMobile(isOpen ? null : i)}
