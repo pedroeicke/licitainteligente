@@ -11,9 +11,9 @@ export function Contact() {
   const { faq, contact, site } = content;
 
   const channels = [
-    { icon: <WhatsAppIcon className="h-5 w-5" />, label: "WhatsApp", value: site.phone, href: waLink() },
-    { icon: <Icon name="mail" size={20} />, label: "E-mail", value: site.email, href: `mailto:${site.email}` },
-    { icon: <Icon name="pin" size={20} />, label: "Endereço", value: `${site.address}, ${site.city}`, href: site.mapsUrl },
+    { icon: <WhatsAppIcon className="h-[22px] w-[22px]" />, label: "WhatsApp", value: site.phone, sub: "", href: waLink() },
+    { icon: <Icon name="mail" size={20} />, label: "E-mail", value: site.email, sub: "", href: `mailto:${site.email}` },
+    { icon: <Icon name="pin" size={20} />, label: "Endereço", value: site.address, sub: `${site.city} · ${site.cep}`, href: site.mapsUrl },
   ];
 
   return (
@@ -81,6 +81,7 @@ export function Contact() {
                         <span className="min-w-0">
                           <span className="block text-xs uppercase tracking-[0.16em] text-white/60">{c.label}</span>
                           <span className="block break-words font-medium">{c.value}</span>
+                          {c.sub && <span className="mt-0.5 block text-sm text-white/65">{c.sub}</span>}
                         </span>
                       </a>
                     </li>
