@@ -1,0 +1,1189 @@
+{
+  "site": {
+    "name": "Licitações Inteligentes",
+    "legalName": "Gestão e Negócios Inteligentes Ltda.",
+    "cnpj": "49.780.850/0001-49",
+    "phone": "(11) 97736-3640",
+    "whatsapp": "5511977363640",
+    "email": "contato@licitainteligente.com.br",
+    "address": "Av. Brigadeiro Faria Lima, 3144 · Ed. Seculum",
+    "city": "São Paulo · SP",
+    "cep": "CEP 01451-000",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Av.+Brigadeiro+Faria+Lima,+3144,+S%C3%A3o+Paulo+-+SP,+01451-000",
+    "catalogUrl": "https://www.licitainteligente.com.br/_files/ugd/e91896_b90a4a54075447a1bd82ca1060c81b8d.pdf",
+    "website": "www.licitainteligente.com.br",
+    "socials": [
+      {
+        "label": "Instagram",
+        "handle": "@licitacoesinteligentes",
+        "url": "https://instagram.com/licitacoesinteligentes"
+      },
+      {
+        "label": "YouTube",
+        "handle": "@licitacoesinteligentes",
+        "url": "https://www.youtube.com/@licitacoesinteligentes"
+      },
+      {
+        "label": "TikTok",
+        "handle": "@licitacoesinteligentes",
+        "url": "https://www.tiktok.com/@licitacoesinteligentes"
+      },
+      {
+        "label": "LinkedIn",
+        "handle": "/in/licitacaointeligentes",
+        "url": "https://linkedin.com/in/licitacaointeligentes"
+      }
+    ]
+  },
+  "nav": [
+    {
+      "label": "Quem somos",
+      "href": "/#quem-somos"
+    },
+    {
+      "label": "Cursos",
+      "href": "/#cursos"
+    },
+    {
+      "label": "Talentos",
+      "href": "/#talentos"
+    },
+    {
+      "label": "Publicações",
+      "href": "/#publicacoes"
+    },
+    {
+      "label": "Contato",
+      "href": "/#contato"
+    }
+  ],
+  "hero": {
+    "eyebrow": "Educação corporativa em contratações públicas",
+    "titleA": "Contratações públicas",
+    "titleB": "com inteligência",
+    "titleC": "do planejamento ao controle.",
+    "subtitle": "Capacitação e soluções especializadas para a Administração Pública e para empresas que contratam com o Poder Público — com um corpo docente de quem vive a Lei 14.133/2021 na prática.",
+    "ctaPrimary": "Solicitar proposta",
+    "ctaSecondary": "Ver cursos"
+  },
+  "about": {
+    "badge": "Quem somos",
+    "title": "Licitações Inteligentes",
+    "body": "Licitações Inteligentes é a marca registrada da sociedade empresária Negócios Inteligentes para o desenvolvimento profissional e gerencial em contratações públicas e temas correlatos, com soluções especializadas para a Administração Pública e empresas que contratam com o Poder Público, de acordo com suas características e nichos de atividades.",
+    "stats": [
+      {
+        "value": "16",
+        "label": "Talentos no corpo docente"
+      },
+      {
+        "value": "6",
+        "label": "Áreas temáticas"
+      },
+      {
+        "value": "30+",
+        "label": "Cursos e soluções"
+      }
+    ]
+  },
+  "differential": {
+    "badge": "Nosso diferencial",
+    "titleLead": "Treinamento sob medida com",
+    "titleHighlight": "padrão internacional",
+    "titleRest": "de qualidade",
+    "body": "Nosso negócio é orientado por métodos internacionalmente reconhecidos de gestão por competência e abordagem de processo. Nossas soluções visam ao treinamento específico conforme as particularidades da organização, com o intento de resolver problemas concretos com fundamentos teóricos e estudos práticos adequados à sua estrutura, realidade e complexidade.",
+    "norms": [
+      {
+        "code": "ISO 10015",
+        "title": "Gestão de competências",
+        "desc": "Diretrizes para a gestão de competências e o desenvolvimento de pessoas."
+      },
+      {
+        "code": "ISO 10018",
+        "title": "Engajamento de pessoas",
+        "desc": "Orientações para o envolvimento e o engajamento das pessoas na organização."
+      },
+      {
+        "code": "ISO 29992",
+        "title": "Avaliação de resultados",
+        "desc": "Avaliação dos resultados dos serviços de aprendizagem."
+      },
+      {
+        "code": "ISO 21001",
+        "title": "Organizações educacionais",
+        "desc": "Sistemas de gestão para organizações educacionais."
+      }
+    ],
+    "footnote": "Empregamos as normas técnicas internacionais ISO 10015, 10018, 29992 e 21001 com vistas a alcançar nível de excelência em resultados."
+  },
+  "areas": {
+    "badge": "Cursos",
+    "title": "Conheça nossas áreas temáticas",
+    "body": "Um portfólio completo de capacitações e soluções em contratações públicas e temas correlatos, organizado em seis áreas temáticas.",
+    "items": [
+      {
+        "slug": "licitacoes-e-contratos-administrativos",
+        "title": "Licitações e Contratos Administrativos",
+        "courses": [
+          "Nova Lei de Licitações: atualização e aperfeiçoamento",
+          "Nova Lei de Licitações para empresas licitantes",
+          "Licitações e contratos das empresas estatais",
+          "Regulamentação da Nova Lei de Licitações",
+          "Estudo Técnico Preliminar",
+          "Procedimentos auxiliares em contratações públicas",
+          "Contratação direta: dispensa e inexigibilidade de licitação",
+          "Consultoria e assessoramento jurídico em licitações e contratos administrativos",
+          "Consultoria e assessoramento jurídico para empresas em licitações e contratos administrativos",
+          "Fiscalização de contratos",
+          "Processo de padronização",
+          "Certificações de qualidade em licitações e contratos",
+          "Compras públicas sustentáveis",
+          "Compras públicas centralizadas",
+          "Matriz de riscos de contratos administrativos",
+          "Planejamento e fiscalização de obras e serviços de engenharia",
+          "Inspeção acreditada de empreendimentos de infraestrutura",
+          "Contratação integrada de obras e serviços de engenharia",
+          "Contratação de produtos e serviços de Tecnologia da Informação e Comunicação (TIC)",
+          "Contratação de produtos e serviços de defesa e segurança",
+          "Modelagem técnica e econômica de concessões e PPPs",
+          "Avaliação de conformidade de concessões e PPPs",
+          "Estruturação de concessões e PPPs de saneamento básico",
+          "Meios adequados de solução de conflitos",
+          "Processo de apuração de responsabilidade contratual",
+          "Processo administrativo de responsabilização",
+          "Improbidade administrativa em gestão e contratos administrativos",
+          "Compliance em contratações públicas"
+        ]
+      },
+      {
+        "slug": "concessoes-e-ppps",
+        "title": "Concessões e PPPs",
+        "courses": [
+          "Matriz de riscos de contratos administrativos",
+          "Inspeção acreditada de empreendimentos de infraestrutura",
+          "Modelagem técnica e econômica de concessões e PPPs",
+          "Processo administrativo de responsabilização",
+          "Improbidade administrativa em gestão e contratos administrativos",
+          "Compliance em contratações públicas",
+          "Estruturação de concessões e PPPs de saneamento básico",
+          "Meios adequados de solução de conflitos"
+        ]
+      },
+      {
+        "slug": "gestao-publica-e-privada",
+        "title": "Gestão Pública e Privada",
+        "courses": [
+          "Compliance em contratações públicas",
+          "Lei Geral de Proteção de Dados Pessoais (LGPD)"
+        ]
+      },
+      {
+        "slug": "regulacao-publica",
+        "title": "Regulação Pública",
+        "courses": [
+          "Análise de Impacto Regulatório",
+          "Avaliação de Impacto Legislativo"
+        ]
+      },
+      {
+        "slug": "controle-da-administracao-publica",
+        "title": "Controle da Administração Pública",
+        "courses": [
+          "Fiscalização de contratos",
+          "Processo administrativo de responsabilização",
+          "Improbidade administrativa em gestão e contratos administrativos",
+          "Compliance em contratações públicas"
+        ]
+      },
+      {
+        "slug": "direito-publico-sancionador",
+        "title": "Direito Público Sancionador",
+        "courses": [
+          "Processo de apuração de responsabilidade contratual",
+          "Processo administrativo de responsabilização",
+          "Processo administrativo disciplinar: a visão da Corregedoria e a visão da Defesa",
+          "Improbidade administrativa em gestão e contratos administrativos"
+        ]
+      }
+    ]
+  },
+  "featured": {
+    "badge": "Cursos em destaque",
+    "titleLead": "Capacitações",
+    "titleHighlight": "aprofundadas",
+    "titleRest": "para desafios que não admitem improviso",
+    "body": "Conteúdos desenhados a partir da legislação vigente, da jurisprudência dos Tribunais de Contas e da prática de quem conduz grandes contratações.",
+    "cta": "Solicitar proposta para minha equipe",
+    "items": [
+      {
+        "slug": "certificacoes-de-qualidade-em-licitacoes-e-contratos",
+        "title": "Certificações de Qualidade em Licitações e Contratos",
+        "subtitle": "Certificações de qualidade, segurança e ambiental em licitações, conforme a Lei n.º 14.133/2021 e a Lei n.º 13.303/2016",
+        "law": "Lei 14.133/2021 · Lei 13.303/2016",
+        "icon": "award",
+        "description": "O curso tem por propósito oferecer aos alunos o conhecimento necessário para a exigência ou recomendação de certificações e outros mecanismos de avaliação da conformidade em licitações públicas e contratos administrativos, como ferramenta eficaz para a promoção da qualidade do gasto público, integridade das contratações, conservação ambiental, enfrentamento ao desperdício de recursos materiais e redução de custos administrativos.",
+        "ementa": [
+          "Uso de certificações em contratações públicas",
+          "Normas instituídas pela Lei n.º 13.303/2016 (Lei das Estatais)",
+          "Inovações da Lei n.º 14.133/2021",
+          "Assimetria de informações",
+          "Risco moral",
+          "Seleção adversa",
+          "Qualidade e segurança de produtos e serviços",
+          "Nova disciplina legal sobre certificação e acreditação em contratações públicas",
+          "Atecnias normativas",
+          "Mecanismos de avaliação da conformidade",
+          "Escolha do mecanismo adequado à necessidade",
+          "Benefícios para a Administração Pública",
+          "Segurança para a fiscalização do contrato",
+          "Momentos procedimentais para a exigência de requisitos técnicos",
+          "Critérios para a proporcionalidade do escopo eleito",
+          "Métricas de controle da decisão",
+          "Responsabilidades",
+          "Jurisprudência dos Tribunais de Contas",
+          "Cuidados indispensáveis para os gestores públicos",
+          "Cuidados para as empresas licitantes"
+        ],
+        "metodologia": "Exposição da matéria, abordagem de casos e exercícios práticos.",
+        "cargaHoraria": "",
+        "publico": [
+          "Órgãos e entidades da Administração Pública em todos os níveis federativos",
+          "Empresas estatais",
+          "Empresas interessadas em contratar com o Poder Público"
+        ]
+      },
+      {
+        "slug": "contratacao-integrada-de-obras",
+        "title": "Contratação Integrada de Obras e Serviços de Engenharia",
+        "subtitle": "Contratação integrada e contratação semi-integrada de obras e serviços de engenharia, com base na Lei n.º 14.133/2021",
+        "law": "Lei 14.133/2021",
+        "icon": "crane",
+        "description": "A contratação integrada de obras e serviços de engenharia foi criada pelo Regime Diferenciado de Contratações (RDC), em 2011, e abrangia possibilidades restritas de uso, comumente em grandes empreendimentos de infraestrutura. A Lei n.º 14.133/2021 (Nova Lei de Licitações e Contratos) revogou o RDC e incluiu a contratação integrada entre os regimes de execução de obras e serviços de engenharia, agora aplicável por todos os órgãos, autarquias e fundações públicas da União, Estados, Distrito Federal e Municípios. Ao mesmo tempo, a Lei n.º 14.133/2021 instituiu um novo regime de execução: a contratação semi-integrada. Na contratação semi-integrada, a empresa contratada é responsável pelo projeto executivo da obra; na contratação integrada, a empresa é responsável pela elaboração do projeto básico e do projeto executivo. Essa modelagem obrigacional possibilita à Administração Pública significativo ganho de tempo e enorme diminuição do risco de celebração de termos aditivos decorrentes de erros de especificação ou de dimensionamento de quantitativos em projetos. Consequentemente, a Administração consegue entregar obras com muito mais velocidade e muito menos riscos para os gestores públicos, além de respeitar com maior grau de fidedignidade a previsão orçamentária para a execução das obras.",
+        "ementa": [
+          "Regimes de execução de obras e serviços de engenharia",
+          "Especificidades da contratação integrada e da contratação semi-integrada",
+          "Elaboração dos projetos: anteprojeto, projeto básico e projeto executivo",
+          "Disciplinas de projetos",
+          "Definição, abrangência e especificidade dos projetos conforme o regime de execução",
+          "Possibilidades de alteração de projetos e soluções de engenharia",
+          "Escolha do regime de execução conforme as características da obra",
+          "Matriz de riscos: obrigatoriedade, identificação, alocação e mensuração dos riscos",
+          "Orçamento estimado da contratação: composição e decisão sobre publicidade ou sigilo",
+          "Cálculo da parcela de remuneração de risco",
+          "Mecanismos de avaliação da conformidade",
+          "Especificações que possibilitam o ganho de tempo e previsibilidade orçamentária",
+          "Modelagens de gestão de riscos para a proteção dos agentes públicos envolvidos na contratação",
+          "Questões importantes sobre controle externo das contratações"
+        ],
+        "metodologia": "Exposição da matéria, realização de oficinas práticas e abordagem de casos hipotéticos e casos concretos.",
+        "cargaHoraria": "21 horas/aula",
+        "publico": [
+          "Órgãos e entidades da Administração Pública em todos os níveis federativos"
+        ]
+      },
+      {
+        "slug": "contratacoes-da-seguranca-publica",
+        "title": "Contratação de Produtos e Serviços de Defesa e Segurança",
+        "subtitle": "Termo de Licitação Especial, licitações internacionais, contratação direta, procedimentos auxiliares e outros meios para contratações específicas do setor de defesa e segurança pública",
+        "law": "Termo de Licitação Especial",
+        "icon": "shield",
+        "description": "A contratação de produtos e serviços de defesa e segurança observa aspectos técnicos e jurídicos peculiares, em razão da especificidade das contratações e suas finalidades, e das leis e regulamentos aplicáveis aos procedimentos licitatórios. O Termo de Licitação Especial, até pouco tempo restrito às Forças Armadas, desde dezembro de 2022 estende-se aos Estados, Distrito Federal e Municípios, requerendo-se dos órgãos de segurança dos entes subnacionais o conhecimento da matéria abordada neste curso para a adequada instrução processual e êxito da contratação.",
+        "ementa": [
+          "Defesa e Segurança: diferenças e semelhanças",
+          "Especificidade das contratações",
+          "Produtos de defesa e segurança",
+          "Credenciamento e descredenciamento de empresas estratégicas de defesa",
+          "Inovação",
+          "Plano de compensação",
+          "Instituição Científica e Tecnológica",
+          "Elaboração do edital",
+          "Participação restrita a empresas estratégicas de defesa",
+          "Continuidade produtiva",
+          "Transferência de direitos de propriedade intelectual ou industrial",
+          "Capacitação de terceiros",
+          "Estudo Técnico Preliminar",
+          "Termo de Licitação Especial",
+          "Projetos",
+          "Termo de Referência",
+          "Especificações técnicas",
+          "Certificações",
+          "Ensaios",
+          "Credenciamento",
+          "Pré-qualificação",
+          "Procedimento de padronização",
+          "Sistema de registro de preços",
+          "Procedimento licitatório",
+          "Diálogo competitivo",
+          "Contratação direta: dispensa e inexigibilidade de licitação",
+          "Licitações internacionais",
+          "Armas e munições",
+          "Armamento não letal",
+          "Veículos terrestres, aeronaves tripuladas e não tripuladas, embarcações",
+          "Acessórios: capacetes, escudos, óculos, câmeras, lanternas, coldres e equipamentos de orientação e sinalização",
+          "Uniformes",
+          "Blindagens",
+          "Explosivos",
+          "Equipamentos anti-tumulto",
+          "Alimentos",
+          "Unidades caninas",
+          "Sistemas de vigilância",
+          "Sistemas estruturantes de tecnologia da informação e comunicação",
+          "Câmeras",
+          "Robôs para ações de patrulhamento, resgate e incursões",
+          "Serviços de apoio e manutenção de instalações e equipamentos",
+          "Projetos especiais"
+        ],
+        "metodologia": "Exposição da matéria, abordagem de casos e exercícios práticos.",
+        "cargaHoraria": "",
+        "publico": [
+          "Ministério da Defesa",
+          "Forças Armadas",
+          "Polícia Federal",
+          "Polícia Rodoviária Federal",
+          "Polícia Ferroviária Federal",
+          "Secretarias de Segurança Pública",
+          "Polícias Militares",
+          "Corpos de Bombeiros Militares",
+          "Secretarias de Administração Penitenciária",
+          "Polícias Penais",
+          "Secretarias Municipais de Segurança Pública",
+          "Guardas Municipais",
+          "Polícias Legislativas",
+          "Órgãos de segurança do Poder Judiciário"
+        ]
+      },
+      {
+        "slug": "analise-de-impacto-regulatorio",
+        "title": "Análise de Impacto Regulatório",
+        "subtitle": "Análise de Impacto Regulatório conforme a Lei n.º 13.848/2019",
+        "law": "Lei 13.848/2019",
+        "icon": "chart",
+        "description": "A Análise de Impacto Regulatório (AIR) é ferramenta amplamente utilizada em países membros da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), organização internacional que possui diversas diretrizes para a qualidade regulatória dos Estados-membros. Em 2022, a República Federativa do Brasil manifestou pedido de adesão à OCDE, cujo processo está em andamento. Em harmonia com as diretrizes expedidas pela Organização, no âmbito da Administração Federal, a elaboração de AIR em processos regulatórios tornou-se obrigatória a partir da edição da Lei n.º 13.848/2019 (Lei Geral das Agências Reguladoras), da Lei n.º 13.874/2019 (Lei de Liberdade Econômica) e do Decreto n.º 10.411/2020, sendo utilizada como referência para as esferas estadual, distrital e municipal. O conhecimento sobre AIR é imprescindível para a qualidade das normas e prospecção dos efeitos almejados para a economia e a sociedade.",
+        "ementa": [
+          "AIR no processo de elaboração das normas",
+          "Fiscalização e monitoramento",
+          "Avaliação de Resultado Regulatório",
+          "Técnicas de problematização e definição de problema regulatório",
+          "Definição dos objetivos frente ao problema regulatório",
+          "Descrição das alternativas de solução do problema",
+          "Identificação e tipologia de impactos regulatórios",
+          "Análise Multicritério",
+          "Método AHP",
+          "Diminuição do fardo regulatório",
+          "Minimização dos riscos de falhas de governo",
+          "Eficiência econômica",
+          "Otimização dos custos administrativos",
+          "Redução das demandas de fiscalização",
+          "Melhoria dos mecanismos de controle",
+          "Incremento da governança regulatória",
+          "Aumento da credibilidade institucional",
+          "Regulamentação",
+          "Responsabilidades"
+        ],
+        "metodologia": "Exposição da matéria e abordagem de casos.",
+        "cargaHoraria": "",
+        "publico": [
+          "Agências reguladoras",
+          "Órgãos e entidades da Administração Pública atribuídos de poder regulatório"
+        ]
+      }
+    ]
+  },
+  "talents": {
+    "badge": "Nossos talentos",
+    "title": "Conheça nossos talentos",
+    "body": "Um corpo docente formado por profissionais que conduzem, fiscalizam e controlam contratações públicas em algumas das instituições mais relevantes do país.",
+    "list": [
+      {
+        "slug": "alvaro-capagio",
+        "name": "Álvaro Capagio",
+        "fullName": "Álvaro do Canto Capagio",
+        "role": "Regulador Federal",
+        "photo": "/retratos/alvaro-capagio.jpg",
+        "summary": [
+          "Doutorando em Direito da Regulação pela Universidade de Brasília",
+          "Mestre em Direito Internacional e Sustentabilidade pela Universidade Federal de Santa Catarina",
+          "Autor de livros jurídicos da área de Direito Administrativo e Regulatório"
+        ],
+        "sections": [
+          {
+            "title": "Principais competências",
+            "items": [
+              "Licitações e contratos administrativos",
+              "Concessões, permissões e autorizações de serviços públicos",
+              "Regulação técnica da atividade econômica",
+              "Modelagem contratual",
+              "Direito Administrativo Sancionador"
+            ]
+          },
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Doutorando em Direito da Regulação pela Universidade de Brasília",
+              "Mestre em Direito Internacional e Sustentabilidade pela Universidade Federal de Santa Catarina",
+              "Especialista em Direito Público pela Escola Paulista da Magistratura",
+              "Especialista pelo Curso de Altos Estudos de Política e Estratégia da Escola Superior de Guerra",
+              "Membro do Centro de Estudos Jurídico-Econômicos e de Gestão do Desenvolvimento da Universidade Federal de Santa Catarina",
+              "Membro do Grupo de Estudos em Direito e Economia (Universidade de Brasília/Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa)",
+              "Professor do Curso de Pós-Graduação em Direito Administrativo Contemporâneo da Faculdade Unyleya",
+              "Professor do Curso de Pós-Graduação em Licitações e Contratos da Escola Mineira de Direito",
+              "Professor do Curso de Gestor de Infraestrutura da Qualidade da Associação Brasileira de Avaliação da Conformidade/Confederação Nacional da Indústria",
+              "Professor do Curso de Liderança e Inovação em Políticas Públicas e Centro de Governo do Instituto Internacional de Inovação em Políticas Públicas e Soluções",
+              "Técnico Industrial em Eletrotécnica pelo Centro Federal de Educação Tecnológica do Rio de Janeiro",
+              "Especialista em Eletricidade pela Escola de Especialistas de Aeronáutica",
+              "Avaliador líder ISO/IEC 17020 certificado pela Sociedade Brasileira de Metrologia",
+              "Membro titular do Comitê Brasileiro de Normalização",
+              "Membro titular do Comitê Brasileiro de Avaliação da Conformidade",
+              "Coordenador do Acordo de Cooperação Técnica n. 4/2022, celebrado entre a Agência Nacional de Transportes Terrestres e o Instituto Nacional de Metrologia, Qualidade e Tecnologia, para o desenvolvimento de parâmetros de qualidade e segurança em projetos e obras de infraestrutura pública federal",
+              "Autor de livros jurídicos da área de Direito Administrativo e Regulatório"
+            ]
+          }
+        ],
+        "history": [
+          "Na Agência Nacional de Transportes Terrestres, desde 2014, exerceu as seguintes funções gerenciais: Gerente Executivo; Gerente Substituto de Informação; Coordenador de Gestão e Aperfeiçoamento Correcional; Coordenador de Procedimentos Disciplinares e Responsabilização de Pessoas Jurídicas; Coordenador Substituto de Fiscalização nos Estados do Rio de Janeiro e Espírito Santo e; Coordenador de Estudos e Inovações Regulatórias, na unidade incumbida da elaboração e aperfeiçoamento de editais de licitações e contratos de concessão de infraestrutura federal de transportes, de acordo com as práticas e referências internacionais, realização de análise de impacto regulatório, matriz de riscos e modelos de fiscalização contratual. É responsável pelas inovações contratuais inerentes às certificações de sistema de gestão da qualidade, sistema de gestão ambiental e sistema de gestão da segurança viária em contratos de concessão de infraestrutura federal de transportes, além da inspeção de projetos e obras de infraestrutura por organismos acreditados. Atualmente, é Coordenador do Acordo de Cooperação Técnica n.º 4/2022, que trata do desenvolvimento de conhecimentos e parâmetros técnicos para a avaliação da conformidade de projetos e obras de infraestrutura federal de transportes, em articulação com o Instituto Nacional de Metrologia, Qualidade e Tecnologia (Inmetro).",
+          "Antes da carreira de regulador federal, enquanto servidor efetivo do Poder Judiciário Federal, no Tribunal Regional Eleitoral de São Paulo, exerceu suas funções na Seção de Análise de Procedimentos Licitatórios, unidade do Controle Interno responsável pela emissão de pareceres em procedimentos licitatórios, e no Gabinete da Presidência do Tribunal (2012-2013).",
+          "No Tribunal Regional Eleitoral da Bahia, exerceu funções de fiscal de contratos e membro das seguintes comissões: Comissão Permanente de Licitações, Comissão de Apuração de Responsabilidade Contratual, Comissão Técnica e Comissão Ambiental. Atuou nas licitações destinadas às contratações para a construção de fóruns eleitorais (2004-2011).",
+          "No Ministério da Aeronáutica (atual Comando da Aeronáutica), atuou no aceite técnico e operações assistidas para implantação de sítios aeronáuticos do Sistema de Vigilância da Amazônia (1999-2003) e do Quarto Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo - Cindacta IV."
+        ],
+        "publications": [
+          {
+            "ref": "COUTO, Reinaldo; CAPAGIO, Álvaro do Canto. Curso de Direito Administrativo. 5. ed. São Paulo: Saraiva, 2022.",
+            "note": "Cupom de desconto: VALECAPAGIO",
+            "url": "https://www.editoradodireito.com.br/livro-curso-de-direito-administrativo-reinaldo-de-souza-couto-filho-saraiva-jur-9786553621879"
+          },
+          {
+            "ref": "CAPAGIO, Álvaro do Canto; COUTO, Reinaldo. Nova Lei de Licitações e Contratos Administrativos: Lei n. 14.133/2021. São Paulo: Saraiva, 2021.",
+            "url": "https://www.amazon.com.br/dp/6555598255"
+          },
+          {
+            "ref": "GONÇALVES, Everton das Neves; CAPAGIO, Álvaro do Canto. Análise econômico-jurídica das decisões político-normativas sobre transportes no Brasil. In: GONÇALVES, Everton das Neves; AZEVEDO, Lyza Anzanello de; GONÇALVES, Jéssica (Org.). Direito, Justiça e Economia: a influência dos parâmetros econômicos na esfera legal. 1. ed. Florianópolis: Emais, 2023, v. 2.",
+            "url": "https://emaiseditora.com.br/produto/direito-jutica-e-economia-2/"
+          },
+          {
+            "ref": "CAPAGIO, Álvaro do Canto; BARATIERI, Noel Antonio. O parecer jurídico. In: HARGER, Marcelo (Coord.). Aspectos polêmicos sobre a nova Lei de Licitações e Contratos Administrativos: Lei nº 14.133/2021. Belo Horizonte: Fórum, 2022.",
+            "url": "https://loja.editoraforum.com.br/aspectos-polemicos-sobre-a-nova-lei-de-licitacoes-e-contratos-administrativos"
+          },
+          {
+            "ref": "CAPAGIO, Álvaro do Canto; FILPI, Humberto Francisco Ferreira Campos Morato. Política energética europeia e Euro Standards: regulação da melhor técnica disponível para redução de emissões. In: DERANI, Cristiane; MOURA, Aline Beltrame de; NOSCHANG, Patricia Grazziontin (Orgs.). A regulação europeia sobre a água, energia e alimento para a sustentabilidade ambiental. Florianópolis: Emais, 2021.",
+            "note": "Acesso gratuito"
+          }
+        ],
+        "group": "Regulação"
+      },
+      {
+        "slug": "aldoney-costa",
+        "name": "Aldoney Costa",
+        "role": "Pesquisador-Tecnologista em Metrologia e Qualidade",
+        "photo": "/retratos/aldoney-costa.jpg",
+        "summary": [
+          "Autoridade nacional de acreditação da República Federativa do Brasil (2015/2016, 2019/2023)",
+          "Mestre em Sistemas de Gestão pela Universidade Federal Fluminense",
+          "Avaliador líder par da InterAmerican Accreditation Cooperation"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Autoridade nacional de acreditação da República Federativa do Brasil (2015/2016, 2019/2023)",
+              "Graduado em Química Industrial pelas Faculdades Reunidas Nuno Lisboa",
+              "Especialista em Engenharia Sanitária e Ambiental pela Universidade do Estado do Rio de Janeiro",
+              "Mestre em Sistemas de Gestão pela Universidade Federal Fluminense",
+              "Pesquisador Tecnologista em Metrologia e Qualidade",
+              "Avaliador líder de acreditação de organismos de certificação de sistema de gestão e produtos",
+              "Avaliador líder par da InterAmerican Accreditation Cooperation",
+              "Representante do Instituto Nacional de Metrologia, Qualidade e Tecnologia no Comitê Nacional de Desenvolvimento Tecnológico da Habitação do Ministério das Cidades"
+            ]
+          },
+          {
+            "title": "Principais funções no Inmetro",
+            "items": [
+              "Coordenador de Operações para Acreditação",
+              "Chefe da Divisão de Acreditação de Organismos de Certificação",
+              "Chefe do Setor de Sistemas e Treinamento",
+              "Chefe do Setor de Produtos e Pessoas"
+            ]
+          }
+        ],
+        "history": [
+          "Principais funções exercidas no Parque de Material Aeronáutico do Galeão: responsável técnico perante o Conselho Regional de Química da 3ª Região; assessoramento e execução de projetos e programas de proteção ambiental; supervisão e execução de análises químicas para controle de qualidade de itens aeronáuticos; elaboração de programa de combate e prevenção à corrosão em aeronaves."
+        ],
+        "publications": [],
+        "group": "Controle e qualidade"
+      },
+      {
+        "slug": "alessandro-moraes",
+        "name": "Alessandro Moraes",
+        "role": "Delegado de Polícia Federal",
+        "photo": "/retratos/alessandro-moraes.jpg",
+        "summary": [
+          "Chefe do Setor de Operações da Superintendência da Polícia Federal no Estado do Rio de Janeiro",
+          "Elevada experiência em investigações sobre fraudes em licitações e contratos administrativos"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Bacharel em Direito pela Universidade Federal do Estado do Rio de Janeiro",
+              "Especialista em Direito Imobiliário pela Universidade Cândido Mendes",
+              "Especialista em Direito Registral pela Universidade Cândido Mendes",
+              "Chefe do Setor de Operações da Superintendência da Polícia Federal no Estado do Rio de Janeiro",
+              "Principais funções exercidas na Polícia Federal: Chefe do Núcleo de Operações; Unidade de Gestão Estratégica e Chefe do Setor de Planejamento Operacional",
+              "Elevada experiência em investigações sobre fraudes em licitações e contratos administrativos"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [
+          {
+            "ref": "MORAES, Alessandro Magalhães de. Análise dos artigos 4º e 5º do Código de Processo Penal. In: BEZERRA, Clayton da Silva; AGNOLETTO, Giovani Celso (Org.). Inquérito policial: doutrina e prática: a visão do delegado de polícia. São Paulo: Letras Jurídicas, 2014.",
+            "url": "https://letrasjuridicas.com.br/inquerito-policial-doutrina-e-pratica"
+          },
+          {
+            "ref": "MORAES, Alessandro Magalhães de. Restituição das coisas apreendidas. In: BEZERRA, Clayton da Silva; AGNOLETTO, Giovani Celso (Org.). Temas processuais penais da atualidade. São Paulo: Letras Jurídicas, 2019.",
+            "url": "https://letrasjuridicas.com.br/temas-processuais-penais-das-atualidade"
+          }
+        ],
+        "group": "Defesa e segurança"
+      },
+      {
+        "slug": "ana-moraes",
+        "name": "Ana Moraes",
+        "role": "Conselheira Substituta do TCE/RS",
+        "photo": "/retratos/ana-moraes.jpg",
+        "summary": [
+          "Mestre em Direito pela Universidade Federal do Rio Grande do Sul",
+          "Ex-Procuradora da Companhia Nacional de Abastecimento (CONAB), aprovada em 1º lugar no Concurso Público nº 01/2005"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Bacharela em Direito pela Universidade do Vale do Rio dos Sinos",
+              "Especialista em Direito Público pelo Centro Universitário Ritter dos Reis",
+              "Especialista em Direito Processual Civil pela Universidade Luterana do Brasil",
+              "Especialista em Direito Material e Processual do Trabalho pela Universidade do Vale do Rio dos Sinos",
+              "Especialista em Direito de Família e Sucessões pela Universidade Luterana do Brasil",
+              "Especialista em Neurociências e Comportamento pela Pontifícia Universidade Católica do Rio Grande do Sul",
+              "Mestre em Direito pela Universidade Federal do Rio Grande do Sul",
+              "Função pública anterior: Procuradora da Companhia Nacional de Abastecimento (CONAB) no Estado do Rio Grande do Sul, aprovada em 1º lugar no Concurso Público nº 01/2005"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [
+          {
+            "ref": "WARPECHOWSKI, Ana Cristina Moraes; GODINHO, Heloísa Helena Antonacio Monteiro; IOCKEN, Sabrina Nunes (Coord.). Políticas públicas e os ODS da Agenda 2030. Belo Horizonte: Fórum, 2021.",
+            "url": "https://loja.editoraforum.com.br/politicas-publicas-e-os-ods-da-agenda-2030"
+          },
+          {
+            "ref": "FIRMO FILHO, Alípio Reis; WARPECHOWSKI, Ana Cristina Moraes; RAMOS FILHO, Carlos Alberto de Moraes (Coords.). Responsabilidade na gestão fiscal: estudos em homenagem aos 20 anos da lei complementar nº 101/2000. Belo Horizonte: Fórum, 2020.",
+            "url": "https://loja.editoraforum.com.br/responsabilidade-na-gestao-fiscal"
+          },
+          {
+            "ref": "SARQUIS, Alexandre Manir Figueiredo; WARPECHOWSKI, Ana Cristina Moraes (Orgs.). Previdência e reforma em debate: estudos multidisciplinares sob a perspectiva do regime próprio. São Paulo: Lualri, 2019."
+          }
+        ],
+        "group": "Controle e qualidade"
+      },
+      {
+        "slug": "carlos-veras",
+        "name": "Carlos Veras",
+        "role": "Regulador Federal",
+        "photo": "/retratos/carlos-veras.jpg",
+        "summary": [
+          "Doutor em Economia Aplicada pela Universidade de Brasília",
+          "Especialista em Big Data and Social Analytics pelo Massachusetts Institute of Technology"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Bacharel em Engenharia Civil pela Universidade de Brasília",
+              "Especialista em Gestão Empresarial com ênfase em Estratégia pela Fundação Getúlio Vargas",
+              "Especialista em Big Data and Social Analytics pelo Massachusetts Institute of Technology",
+              "Especialista no Conselho Administrativo de Defesa Econômica",
+              "Mestre em Geotecnia pela Universidade de Brasília",
+              "Doutor em Economia Aplicada pela Universidade de Brasília",
+              "Autor de vários artigos científicos",
+              "Funções públicas anteriores: Auditor Interno da Companhia do Desenvolvimento do Vale do São Francisco e Parnaíba; Analista em Infraestrutura do Departamento Nacional de Infraestrutura de Transportes"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [
+          {
+            "ref": "NEVES, Carlos Eduardo Veras; BERTUSSI, Geovana Lorena. Proposta de Metodologia de Cálculo do Fator X em Contratos de Concessão para Exploração da Infraestrutura Rodoviária Federal. Revista da CGU, v. 13, p. 237-253, 2021."
+          },
+          {
+            "ref": "NEVES, Carlos Eduardo Veras; BERTUSSI, Geovana Lorena. Eficiência em concessões de rodovias federais brasileiras. Revista de Economia e Agronegócio, v. 17, p. 272-291, 2019."
+          },
+          {
+            "ref": "NEVES, Carlos Eduardo Veras; VILELA, Danilo Vieira. Reflexões sobre as novas outorgas no setor ferroviário no Brasil. Cadernos de Finanças Públicas, v. 15, p. 193-223, 2015."
+          }
+        ],
+        "group": "Regulação"
+      },
+      {
+        "slug": "danielle-barroncas",
+        "name": "Danielle Barroncas",
+        "role": "Advogada · Administradora de Empresas",
+        "photo": "/retratos/danielle-barroncas.jpg",
+        "summary": [
+          "Bacharel em Direito e em Administração de Empresas",
+          "Especialista em Direito do Consumidor, Gestão de Pessoas e Marketing"
+        ],
+        "sections": [
+          {
+            "title": "Formação",
+            "items": [
+              "Bacharel em Direito pela Universidade Luterana do Brasil",
+              "Bacharel em Administração de Empresas pela Universidade Federal do Amazonas",
+              "Especialista em Direito do Consumidor pela Universidade Cândido Mendes",
+              "Especialista em Gestão de Pessoas pela Universidade Federal do Amazonas",
+              "Especialista em Marketing pela Universidade Federal do Amazonas"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [],
+        "group": "Advocacia"
+      },
+      {
+        "slug": "hugo-ribeiro",
+        "name": "Hugo Ribeiro",
+        "role": "Regulador Federal",
+        "photo": "/retratos/hugo-ribeiro.jpg",
+        "summary": [
+          "Doutor em Transportes pela Universidade de Brasília",
+          "Professor de Análise de Impacto Regulatório da Universidade Presbiteriana Mackenzie"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Bacharel em Engenharia de Produção pela Universidade Federal de Itajubá",
+              "Mestre em Engenharia de Produção pela Universidade Federal de São Carlos",
+              "Doutor em Transportes pela Universidade de Brasília",
+              "Aperfeiçoamento em People & Technology pela SLB Middle East Training Center, MLC (Emirados Árabes), e pela SLB Kellyville Training Center (Estados Unidos)",
+              "Professor de Análise de Impacto Regulatório da Universidade Presbiteriana Mackenzie",
+              "Fiscal de contratos de concessão de infraestrutura",
+              "Autor de diversos artigos jurídicos nas áreas de regulação, administração pública e engenharia",
+              "Foi professor de Gestão e Logística do Instituto Federal do Triângulo Mineiro"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [
+          {
+            "ref": "ALBUQUERQUE, K. F. et al. Diretrizes gerais e guia orientativo para elaboração de Análise de Impacto Regulatório. 1. ed. Brasília: Casa Civil, 2018."
+          },
+          {
+            "ref": "RIBEIRO, H. A. S.; TEIXEIRA, L. V. S. A importância do modelo regulatório na competitividade dos leilões de infraestrutura rodoviária. In: OLIVEIRA, Carlos Roberto de; VILARINHO, Cíntia Maria Ribeiro (Org.). A regulação de infraestruturas no Brasil. 1. ed. KPMG, 2021, p. 937-959."
+          },
+          {
+            "ref": "RIBEIRO, Hugo Alves Silva; ROCHA, Carlos Henrique; ARATANI, Mateus Sakai; PEIXOTO, Nathane Eva Santos. Estado de Insolvência e Modelo Fleuriet: o caso da Avianca Brasil. Desenvolvimento em Questão, v. 19, p. 327-340, 2021."
+          },
+          {
+            "ref": "RIBEIRO, Hugo Alves Silva; SILVA, A. P.; PEIXOTO, N. E. S.; ROCHA, C. H. Plataformas elevatórias em ônibus interestadual: regulamentação de Política Pública de acessibilidade. Perspectivas em Políticas Públicas, v. XII, p. 27-58, 2019."
+          }
+        ],
+        "group": "Regulação"
+      },
+      {
+        "slug": "joao-coelho",
+        "name": "João Coelho",
+        "role": "Regulador Federal",
+        "photo": "/retratos/joao-coelho.jpg",
+        "summary": [
+          "Coordenador de Legislação da Superintendência de Regulação do Saneamento Básico da Agência Nacional de Águas e Saneamento Básico",
+          "Especialista em Regulação Pública e Concorrência pela Universidade de Coimbra"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Coordenador de Legislação da Superintendência de Regulação do Saneamento Básico da Agência Nacional de Águas e Saneamento Básico",
+              "Bacharel em Direito pela Universidade de Brasília",
+              "Especialista em Regulação Pública e Concorrência pela Faculdade de Direito da Universidade de Coimbra",
+              "Especialista em Concessões e Parcerias com a Administração Pública pelo Instituto de Ensino, Desenvolvimento e Pesquisa",
+              "Especialista em Direito Econômico e Concorrência pela Fundação Getúlio Vargas"
+            ]
+          },
+          {
+            "title": "Funções públicas anteriores",
+            "items": [
+              "Assessor na Subchefia para Assuntos Jurídicos da Casa Civil da Presidência da República",
+              "Gerente de Regulação Portuária da Agência Nacional de Transportes Aquaviários",
+              "Assessor Jurídico de Subprocurador-Geral da República",
+              "Assessor Técnico da Secretaria de Relações Institucionais da Procuradoria-Geral da República",
+              "Membro da Coordenação Geral de Análise Antitruste 01 da Superintendência-Geral do Conselho Administrativo de Defesa Econômica",
+              "Chefe da Divisão de Análise de Infrações nos Setores de Serviços e Infraestrutura e membro da Coordenação-Geral de Assuntos Jurídicos do Departamento de Proteção e Defesa Econômica da Secretaria de Direito Econômico do Ministério da Justiça"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [],
+        "group": "Regulação"
+      },
+      {
+        "slug": "lara-brainer",
+        "name": "Lara Brainer",
+        "role": "Coordenadora Geral de Governança Estratégica da Advocacia-Geral da União",
+        "photo": "/retratos/lara-brainer.jpg",
+        "summary": [
+          "Ex-Diretora da Central de Compras do Ministério da Gestão e da Inovação em Serviços Públicos",
+          "Servidora da carreira da Regulação Federal"
+        ],
+        "sections": [
+          {
+            "title": "Formação",
+            "items": [
+              "Bacharela em Direito pela Universidade Cândido Mendes",
+              "Pós-graduada em Direito Administrativo, com ênfase em terceirização no serviço público e em Relações entre Empresas e Poder Público pela Faculdade Única",
+              "Diplomada pelo Curso de Altos Estudos em Defesa da Escola Superior de Defesa",
+              "Servidora da carreira da Regulação Federal"
+            ]
+          },
+          {
+            "title": "Central de Compras (MGI) · Projetos realizados",
+            "items": [
+              "Contrata+Brasil: ampliando oportunidades para MEIs e órgãos públicos",
+              "MobGov: evolução do TáxiGov, com mais de 29 mil usuários e abrangência nacional",
+              "Almoxarifado Virtual Nacional: racionalizando o abastecimento do setor público",
+              "Compra direta de passagens aéreas: promovendo agilidade e economia",
+              "Ação emergencial para a população Yanomami: entrega de cestas básicas concluída em apenas 24 horas",
+              "Contratações estratégicas e centralizadas: G20, BRICS, TI (multi-nuvem, design gráfico, suítes, telefonia, computadores), veículos, medicamentos, facilities",
+              "Três projetos voltados ao Programa Calha Norte: foco na execução de emendas parlamentares que permitiu a eficácia da aplicação da verba pública e a redução exponencial do tempo de contratação",
+              "Contratações centralizadas de motoristas e brigadistas"
+            ]
+          },
+          {
+            "title": "Projetos iniciados",
+            "items": [
+              "Supermercado Virtual",
+              "Sistemas Modulares Habitáveis",
+              "Segurança de rede (NGFW)"
+            ]
+          },
+          {
+            "title": "Outras funções",
+            "items": [
+              "Agência Nacional de Saúde Suplementar: Gerente de Contratos e Licitações",
+              "Agência Nacional de Saúde Suplementar: Coordenadora de Licitações",
+              "Agência Nacional de Saúde Suplementar: Pregoeira",
+              "Município de Nova Iguaçu/RJ: Procuradora-Chefe do Município",
+              "Município de Nova Iguaçu/RJ: Assessora Jurídica da Câmara dos Vereadores"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [],
+        "group": "Advocacia pública"
+      },
+      {
+        "slug": "murilo-frigeri",
+        "name": "Murilo Frigeri",
+        "role": "Chefe de Pesquisa do CMB/PMESP",
+        "photo": "/retratos/murilo-frigeri.jpg",
+        "summary": [
+          "Chefe da Seção de Desenvolvimento e Pesquisa do Centro de Material Bélico da Polícia Militar do Estado de São Paulo",
+          "Capitão de Polícia Militar"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Chefe da Seção de Desenvolvimento e Pesquisa do Centro de Material Bélico da Polícia Militar do Estado de São Paulo",
+              "Capitão de Polícia Militar",
+              "Graduado em Ciências Policiais de Segurança e Ordem Pública pela Academia de Polícia Militar do Barro Branco",
+              "Graduando em Engenharia Mecânica pela Faculdade Estácio de São Paulo",
+              "Atuação profissional: pesquisa, especificação, criação de Termo de Referência e métodos de controle de qualidade para compras institucionais e renovação de equipamentos da Polícia Militar do Estado de São Paulo"
+            ]
+          },
+          {
+            "title": "Grupos de trabalho",
+            "items": [
+              "Atualização da legislação de material bélico na Polícia Militar",
+              "Suportes de armamentos em viaturas policiais",
+              "Estudo técnico para adoção de normas para capacete balístico",
+              "Adoção de veículos blindados",
+              "Normas para emprego de equipamentos não letais",
+              "Desenvolvimento de protocolos de teste para produtos controlados",
+              "Inovação de pistolas",
+              "Inovação de coletes balísticos",
+              "Inovação de fuzis"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [],
+        "group": "Defesa e segurança"
+      },
+      {
+        "slug": "noel-baratieri",
+        "name": "Noel Baratieri",
+        "role": "Advogado",
+        "photo": "/retratos/noel-baratieri.jpg",
+        "summary": [
+          "Doutor e Mestre em Direito Administrativo pela Universidade Federal de Santa Catarina",
+          "Consultor da Comissão Especial de Direito Administrativo do Conselho Federal da OAB"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Doutor e Mestre em Direito Administrativo pela Universidade Federal de Santa Catarina",
+              "Consultor da Comissão Especial de Direito Administrativo do Conselho Federal da Ordem dos Advogados do Brasil",
+              "Membro Fundador e Ex-Diretor Executivo do Instituto de Direito Administrativo de Santa Catarina",
+              "Atividades docentes: foi professor de Direito Administrativo da Faculdade de Direito da Universidade Bandeirante de São Paulo e do Curso de Pós-graduação em Direito Administrativo da Universidade do Oeste de Santa Catarina"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [
+          {
+            "ref": "BARATIERI, Noel Antonio. O método de negociação de Harvard na Administração Pública consensual. Porto Alegre: Livraria do Advogado, 2022.",
+            "url": "https://www.livrariadoadvogado.com.br/administrativo/administracao-publica/metodo-de-negociacao-de-harvard-na-administracao-publica-consensual-o"
+          },
+          {
+            "ref": "BARATIERI, Noel Antonio. Serviço Público na Constituição Federal. Porto Alegre: Livraria do Advogado, 2014.",
+            "url": "https://www.livrariadoadvogado.com.br/internacional/publico/servico-publico-na-constituicao-federal"
+          }
+        ],
+        "group": "Advocacia"
+      },
+      {
+        "slug": "renata-santoyo",
+        "name": "Renata Santoyo",
+        "role": "Reguladora Federal",
+        "photo": "/retratos/renata-santoyo.jpg",
+        "summary": [
+          "Coordenadora Especial de Normalização da Assessoria Internacional da Agência Nacional de Telecomunicações",
+          "Mestre em Direito pela Università di Roma – Tor Vergata"
+        ],
+        "sections": [
+          {
+            "title": "Formação",
+            "items": [
+              "Bacharela em Direito pelo Centro de Ensino Unificado de Brasília",
+              "Especialista em Regulação de Telecomunicações pela Universidade de Brasília",
+              "Especialista pelo Curso Avançado de Regulação de Telecomunicações do Instituto Nacional de Telecomunicações",
+              "Mestre em Direito pela Università di Roma – Tor Vergata",
+              "Diplomada pelo Curso Superior de Política e Estratégia da Escola Superior de Guerra"
+            ]
+          },
+          {
+            "title": "Funções como reguladora federal",
+            "items": [
+              "Assessora Jurídica do Conselheiro Otavio Rodrigues",
+              "Assessora Jurídica da Gerência de Certificação e Numeração",
+              "Especialista Jurídica na Gerência de Engenharia do Espectro e Certificação de Produtos",
+              "Especialista Jurídica na Gerência de Regulamentação de Satélites",
+              "Corregedora Substituta",
+              "Presidente da Comissão de Ética",
+              "Função atual: Coordenadora Especial de Normalização da Assessoria Internacional da Agência Nacional de Telecomunicações"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [],
+        "group": "Regulação"
+      },
+      {
+        "slug": "rodrigo-lacerda",
+        "name": "Rodrigo Lacerda",
+        "role": "Regulador Federal",
+        "photo": "/retratos/rodrigo-lacerda.jpg",
+        "summary": [
+          "Coordenador de Estudos e Inovações Regulatórias da Superintendência de Concessão da Infraestrutura da ANTT",
+          "Bacharel em Engenharia Civil pela Universidade Federal do Espírito Santo"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Coordenador de Estudos e Inovações Regulatórias da Superintendência de Concessão da Infraestrutura da Agência Nacional de Transportes Terrestres",
+              "Bacharel em Engenharia Civil pela Universidade Federal do Espírito Santo",
+              "Atribuições exercidas: fiscalização de contratos de concessões de serviços públicos, desenvolvimento de matriz de riscos, estudos para modelagem de contratos com sistema de livre passagem (free flow) e estruturação regulatória de contratos de concessões rodoviárias",
+              "Cargos anteriores: Técnico Superior Operacional e fiscal de obras pelo Instituto de Obras Públicas do Estado do Espírito Santo – IOPES; Analista em Infraestrutura e fiscal de obras do Departamento Nacional de Infraestrutura de Transportes"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [],
+        "group": "Regulação"
+      },
+      {
+        "slug": "thiago-carvalho",
+        "name": "Thiago Carvalho",
+        "role": "Especialista em Produtos Estratégicos de Defesa",
+        "photo": "/retratos/thiago-carvalho.jpg",
+        "summary": [
+          "Responsável Técnico de Produtos Estratégicos de Defesa pela Empresa Estratégica de Defesa SENAI/SC",
+          "Alta experiência em contratações de produtos e serviços de defesa e segurança"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Mestre em Matemática pela Universidade Federal de Santa Catarina",
+              "Licenciado em Matemática pela Universidade do Sul de Santa Catarina",
+              "Coordenador do Subgrupo Manutenção da Comissão Nacional de Treinamentos do Comitê Nacional de Prevenção de Acidentes Aeronáuticos",
+              "Membro do Comitê Nacional de Prevenção de Acidentes Aeronáuticos do Centro de Investigação e Prevenção de Acidentes Aeronáuticos",
+              "Coordenador do Curso Técnico em Manutenção Aeronáutica no Serviço Nacional de Aprendizagem Industrial",
+              "Responsável Técnico de Produtos Estratégicos de Defesa pela Empresa Estratégica de Defesa SENAI/SC",
+              "Expert da equipe brasileira no BRICS Competition na ocupação de Manutenção Aeronáutica",
+              "Atuação como Consultor do Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos",
+              "Alta experiência em contratações de produtos e serviços de defesa e segurança"
+            ]
+          },
+          {
+            "title": "Premiações",
+            "items": [
+              "Medalha de Ouro: Olimpíada do Conhecimento, Brasil, 2021",
+              "Medalha de Excelência: World Skills Competition, Rússia, 2019",
+              "Medalha de Ouro: BRICS Challenge, África do Sul, 2017",
+              "Medalha de Excelência: World Skills Competition, Emirados Árabes Unidos, 2017"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [],
+        "group": "Defesa e segurança"
+      },
+      {
+        "slug": "valdir-oliveira",
+        "name": "Valdir Oliveira",
+        "role": "Procurador da República",
+        "photo": "/retratos/valdir-oliveira.jpg",
+        "summary": [
+          "Atuação no combate à corrupção, improbidade administrativa e fiscalização dos atos da Administração Pública",
+          "Ex-Auditor-Fiscal da Receita Federal do Brasil e Oficial Intendente da Aeronáutica"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Bacharel em Direito pela Faculdade de Direito do Largo São Francisco",
+              "Especialista em Direito Tributário pela Fundação Getúlio Vargas",
+              "Atuação nas áreas cível e criminal, notadamente combate à corrupção, improbidade administrativa e fiscalização dos atos da Administração Pública"
+            ]
+          }
+        ],
+        "history": [
+          "Auditor-Fiscal da Receita Federal do Brasil: atuação na área de comércio exterior e tributos internos, exercendo controle aduaneiro tanto em zona primária (despacho) quanto secundária (pós-despacho), bem como fiscalização de empresas do segmento industrial.",
+          "Oficial Intendente da Aeronáutica: oficial de carreira, diplomado pelo Curso de Formação de Oficiais Intendentes da Academia da Força Aérea. Atuação em execução orçamentária e financeira, ocupando as funções de gestor de material, licitações e finanças."
+        ],
+        "publications": [],
+        "group": "Advocacia pública"
+      },
+      {
+        "slug": "viviane-mendes",
+        "name": "Viviane Mendes",
+        "role": "Advogada da União",
+        "photo": "/retratos/viviane-mendes.jpg",
+        "summary": [
+          "Coordenadora Regional Adjunta de Probidade da Procuradoria Regional da União na 2ª Região",
+          "Mestre em Administração Pública pela Fundação Getúlio Vargas"
+        ],
+        "sections": [
+          {
+            "title": "Formação",
+            "items": [
+              "Coordenadora Regional Adjunta de Probidade da Procuradoria Regional da União na 2ª Região",
+              "Bacharela em Direito pela Universidade Federal Fluminense",
+              "Especialista em Direito das Telecomunicações pelo Centro Universitário da Cidade do Rio de Janeiro",
+              "Especialista pelo Curso de Altos Estudos de Política e Estratégia da Escola Superior de Guerra",
+              "Mestre em Administração Pública pela Fundação Getúlio Vargas",
+              "Aperfeiçoamento no Office of Attorney General, Houston, Texas, EUA"
+            ]
+          },
+          {
+            "title": "Funções como Advogada da União",
+            "items": [
+              "Coordenadora Regional da Equipe de Serviço Público",
+              "Coordenadora do Grupo de Servidor Civil",
+              "Subprocuradora Regional da União Substituta",
+              "Coordenadora-Geral Jurídica da Procuradoria Regional da União da 2ª Região",
+              "Coordenadora do Centro de Estudos da Procuradoria Regional da União no Rio de Janeiro",
+              "Coordenadora Regional Adjunta de Probidade da Procuradoria-Regional da União na 2ª Região"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [
+          {
+            "ref": "MENDES, Viviane Alfradique Martins de Figueiredo. Mecanismos de Consenso no Direito Administrativo e sua Contribuição para a desjudicialização da Política Pública. In: PINHO, Humberto Dalla Bernardina; RODRIGUES, Roberto de Aragão Ribeiro (Orgs.). Mediação e arbitragem na administração pública. Curitiba: CRV, 2018.",
+            "url": "https://www.editoracrv.com.br/produtos/detalhes/32945-mediacao-e-arbitragem-na-administracao-publica"
+          },
+          {
+            "ref": "MENDES, Viviane Alfradique Martins de Figueiredo. A Advocacia Pública na Defesa das Políticas Públicas, da Gestão Responsável e da Segurança Jurídica. Publicações da Escola da AGU: Direito, Gestão e Democracia, v. 10, p. 177-187, 2018."
+          }
+        ],
+        "group": "Advocacia pública"
+      }
+    ],
+    "groups": [
+      "Todos",
+      "Regulação",
+      "Advocacia pública",
+      "Defesa e segurança",
+      "Controle e qualidade",
+      "Advocacia"
+    ]
+  },
+  "publicAudience": {
+    "badge": "Público-alvo",
+    "title": "Para quem são nossas soluções",
+    "list": [
+      "Órgãos e entidades da Administração Pública em todos os níveis federativos",
+      "Empresas estatais e sociedades de economia mista",
+      "Empresas interessadas em contratar com o Poder Público",
+      "Agências reguladoras e órgãos com poder regulatório",
+      "Ministério da Defesa e Forças Armadas",
+      "Polícias, Corpos de Bombeiros e Guardas Municipais",
+      "Secretarias de Segurança Pública e de Administração Penitenciária",
+      "Órgãos de controle, corregedorias e procuradorias"
+    ]
+  },
+  "method": {
+    "badge": "Metodologia",
+    "title": "Da teoria à decisão, em quatro movimentos",
+    "items": [
+      {
+        "title": "Diagnóstico",
+        "desc": "Mapeamos a estrutura, a realidade e a complexidade da organização para definir as competências a desenvolver."
+      },
+      {
+        "title": "Fundamentação",
+        "desc": "Exposição da matéria com base na legislação, na regulamentação e na jurisprudência dos Tribunais de Contas."
+      },
+      {
+        "title": "Prática",
+        "desc": "Oficinas, exercícios e abordagem de casos hipotéticos e casos concretos."
+      },
+      {
+        "title": "Resultados",
+        "desc": "Avaliação orientada pelas normas ISO para alcançar nível de excelência em resultados."
+      }
+    ]
+  },
+  "publications": {
+    "badge": "Publicações",
+    "title": "Obras de referência escritas pelos nossos talentos",
+    "items": [
+      {
+        "title": "Nova Lei de Licitações e Contratos Administrativos",
+        "authors": "Álvaro do Canto Capagio · Reinaldo Couto",
+        "publisher": "Saraiva",
+        "cover": "/livros/nova-lei-licitacoes.jpg",
+        "url": "https://www.amazon.com.br/dp/6555598255",
+        "desc": "Esta obra tem como objetivo analisar a nova Lei de Licitações e Contratos Administrativos (Lei n. 14.133/2021), com uma linguagem direta e aprofundada, inclusive comparando-a com os textos normativos da antiga Lei n. 8.666/93. Além dos comentários dos autores, apresenta um considerável repertório jurisprudencial, com o entendimento atualizado do STF, STJ e do TCU, bem como das Orientações Normativas da AGU e dos Enunciados da Jornada de Direito Administrativo, a respeito de cada artigo."
+      },
+      {
+        "title": "Curso de Direito Administrativo",
+        "authors": "Reinaldo Couto · Álvaro Capagio",
+        "publisher": "Saraiva",
+        "cover": "/livros/curso-direito-administrativo.jpg",
+        "url": "https://www.amazon.com.br/dp/655362187X",
+        "desc": "Apresenta a disciplina completa de forma clara e objetiva, sem deixar de lado a densidade nos conteúdos de maior relevância. A obra foi revista, atualizada e ampliada, abordando as inovações da Nova Lei de Licitações (Lei n. 14.133/2021), a Nova Lei de Improbidade Administrativa (Lei n. 14.230/2021) e a decisão coordenada instituída pela Lei n. 14.210/2021."
+      }
+    ]
+  },
+  "organizer": {
+    "badge": "Quem está por trás",
+    "title": "Uma marca da Negócios Inteligentes",
+    "body": "Licitações Inteligentes é a marca registrada da Gestão e Negócios Inteligentes Ltda., dedicada ao desenvolvimento profissional e gerencial em contratações públicas e temas correlatos. Atendemos a Administração Pública e as empresas que contratam com o Poder Público, de acordo com suas características e nichos de atividades.",
+    "card": {
+      "title": "Na mídia",
+      "desc": "Professor concede entrevista à Associação Brasileira de Avaliação da Conformidade sobre curso de licitações públicas e certificações.",
+      "url": "https://abrac-ac.org.br/professor-concede-entrevista-a-abrac-sobre-curso-de-licitacoes-publicas-e-certificacoes-da-unicamp/"
+    }
+  },
+  "proposal": {
+    "badge": "Solicite uma proposta",
+    "headline": "Sua equipe preparada.",
+    "subline": "Conte o desafio da sua organização e receba uma solução desenhada para a sua realidade.",
+    "public": {
+      "label": "Administração Pública",
+      "title": "Para órgãos e entidades",
+      "tag": "Mais procurado",
+      "includes": [
+        "Capacitação sob medida para agentes de contratação, pregoeiros, fiscais e gestores",
+        "Conteúdo alinhado à Lei n.º 14.133/2021 e à jurisprudência dos Tribunais de Contas",
+        "Oficinas práticas com casos hipotéticos e casos concretos",
+        "Corpo docente formado por autoridades públicas",
+        "Metodologia orientada pelas normas ISO 10015, 10018, 29992 e 21001"
+      ],
+      "cta": "Solicitar proposta"
+    },
+    "business": {
+      "label": "Empresas",
+      "title": "Para quem contrata com o Poder Público",
+      "includes": [
+        "Nova Lei de Licitações para empresas licitantes",
+        "Consultoria e assessoramento jurídico em licitações e contratos",
+        "Certificações de qualidade como diferencial competitivo",
+        "Compliance em contratações públicas",
+        "Licitações e contratos das empresas estatais"
+      ],
+      "cta": "Falar com a equipe"
+    },
+    "note": "Prefere conversar agora?"
+  },
+  "faq": {
+    "badge": "Dúvidas frequentes",
+    "title": "Perguntas frequentes",
+    "items": [
+      {
+        "q": "Os cursos podem ser adaptados à realidade do meu órgão ou empresa?",
+        "a": "Sim. Nossas soluções visam ao treinamento específico conforme as particularidades da organização, com fundamentos teóricos e estudos práticos adequados à sua estrutura, realidade e complexidade."
+      },
+      {
+        "q": "Quem ministra os cursos?",
+        "a": "Nosso corpo docente reúne reguladores federais, procuradores, delegados, conselheiros de tribunal de contas, advogados públicos e privados e especialistas em defesa e metrologia, muitos deles autores de obras jurídicas de referência."
+      },
+      {
+        "q": "Vocês atendem empresas privadas?",
+        "a": "Sim. Além da Administração Pública, atendemos empresas que contratam com o Poder Público, com cursos como Nova Lei de Licitações para empresas licitantes e consultoria jurídica especializada."
+      },
+      {
+        "q": "Quais normas orientam a metodologia?",
+        "a": "Empregamos as normas técnicas internacionais ISO 10015, 10018, 29992 e 21001, com métodos reconhecidos de gestão por competência e abordagem de processo."
+      },
+      {
+        "q": "Onde encontro todos os cursos disponíveis?",
+        "a": "As áreas temáticas estão nesta página e o catálogo completo pode ser baixado em PDF pelo botão \"Baixar catálogo\"."
+      },
+      {
+        "q": "Como solicito uma proposta?",
+        "a": "Preencha o formulário de contato, envie um e-mail para contato@licitainteligente.com.br ou fale conosco pelo WhatsApp (11) 97736-3640."
+      }
+    ]
+  },
+  "contact": {
+    "badge": "Contato",
+    "title": "Vamos desenvolver a sua equipe?",
+    "body": "Entre em contato para mais informações. Responderemos com a melhor solução para a sua organização."
+  },
+  "footer": {
+    "tagline": "Desenvolvimento profissional e gerencial em contratações públicas e temas correlatos.",
+    "copyright": "© 2025 por Licitações Inteligentes. Todos os direitos reservados."
+  },
+  "institutions": {
+    "title": "Nossos talentos atuam ou atuaram em",
+    "items": [
+      "ANTT",
+      "Advocacia-Geral da União",
+      "Ministério Público Federal",
+      "Polícia Federal",
+      "TCE/RS",
+      "Inmetro",
+      "Anatel",
+      "ANA",
+      "CADE",
+      "Polícia Militar de SP",
+      "Central de Compras · MGI",
+      "ANS"
+    ]
+  }
+}
