@@ -15,7 +15,7 @@ npm run dev
 ```
 app/
   page.tsx                 # home (ordem das seções)
-  talentos/[slug]/page.tsx # bio de cada talento (16 páginas estáticas)
+  talentos/[slug]/page.tsx # bio de cada talento (uma página estática por talento)
   cursos/[slug]/page.tsx   # ementa completa dos cursos em destaque
 components/
   sections/                # uma seção por arquivo

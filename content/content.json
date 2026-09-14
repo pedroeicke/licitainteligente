@@ -72,7 +72,7 @@
     "body": "Licitações Inteligentes é a marca registrada da sociedade empresária Negócios Inteligentes para o desenvolvimento profissional e gerencial em contratações públicas e temas correlatos, com soluções especializadas para a Administração Pública e empresas que contratam com o Poder Público, de acordo com suas características e nichos de atividades.",
     "stats": [
       {
-        "value": "16",
+        "value": "14",
         "label": "Talentos no corpo docente"
       },
       {
@@ -478,46 +478,6 @@
         "group": "Regulação"
       },
       {
-        "slug": "aldoney-costa",
-        "name": "Aldoney Costa",
-        "role": "Pesquisador-Tecnologista em Metrologia e Qualidade",
-        "photo": "/retratos/aldoney-costa.jpg",
-        "summary": [
-          "Autoridade nacional de acreditação da República Federativa do Brasil (2015/2016, 2019/2023)",
-          "Mestre em Sistemas de Gestão pela Universidade Federal Fluminense",
-          "Avaliador líder par da InterAmerican Accreditation Cooperation"
-        ],
-        "sections": [
-          {
-            "title": "Formação e atuação",
-            "items": [
-              "Autoridade nacional de acreditação da República Federativa do Brasil (2015/2016, 2019/2023)",
-              "Graduado em Química Industrial pelas Faculdades Reunidas Nuno Lisboa",
-              "Especialista em Engenharia Sanitária e Ambiental pela Universidade do Estado do Rio de Janeiro",
-              "Mestre em Sistemas de Gestão pela Universidade Federal Fluminense",
-              "Pesquisador Tecnologista em Metrologia e Qualidade",
-              "Avaliador líder de acreditação de organismos de certificação de sistema de gestão e produtos",
-              "Avaliador líder par da InterAmerican Accreditation Cooperation",
-              "Representante do Instituto Nacional de Metrologia, Qualidade e Tecnologia no Comitê Nacional de Desenvolvimento Tecnológico da Habitação do Ministério das Cidades"
-            ]
-          },
-          {
-            "title": "Principais funções no Inmetro",
-            "items": [
-              "Coordenador de Operações para Acreditação",
-              "Chefe da Divisão de Acreditação de Organismos de Certificação",
-              "Chefe do Setor de Sistemas e Treinamento",
-              "Chefe do Setor de Produtos e Pessoas"
-            ]
-          }
-        ],
-        "history": [
-          "Principais funções exercidas no Parque de Material Aeronáutico do Galeão: responsável técnico perante o Conselho Regional de Química da 3ª Região; assessoramento e execução de projetos e programas de proteção ambiental; supervisão e execução de análises químicas para controle de qualidade de itens aeronáuticos; elaboração de programa de combate e prevenção à corrosão em aeronaves."
-        ],
-        "publications": [],
-        "group": "Controle e qualidade"
-      },
-      {
         "slug": "alessandro-moraes",
         "name": "Alessandro Moraes",
         "role": "Delegado de Polícia Federal",
@@ -590,7 +550,7 @@
             "ref": "SARQUIS, Alexandre Manir Figueiredo; WARPECHOWSKI, Ana Cristina Moraes (Orgs.). Previdência e reforma em debate: estudos multidisciplinares sob a perspectiva do regime próprio. São Paulo: Lualri, 2019."
           }
         ],
-        "group": "Controle e qualidade"
+        "group": "Controle externo"
       },
       {
         "slug": "carlos-veras",
@@ -837,43 +797,6 @@
         "group": "Defesa e segurança"
       },
       {
-        "slug": "noel-baratieri",
-        "name": "Noel Baratieri",
-        "role": "Advogado",
-        "photo": "/retratos/noel-baratieri.jpg",
-        "summary": [
-          "Doutor e Mestre em Direito Administrativo pela Universidade Federal de Santa Catarina",
-          "Consultor da Comissão Especial de Direito Administrativo do Conselho Federal da OAB"
-        ],
-        "sections": [
-          {
-            "title": "Formação e atuação",
-            "items": [
-              "Doutor e Mestre em Direito Administrativo pela Universidade Federal de Santa Catarina",
-              "Consultor da Comissão Especial de Direito Administrativo do Conselho Federal da Ordem dos Advogados do Brasil",
-              "Membro Fundador e Ex-Diretor Executivo do Instituto de Direito Administrativo de Santa Catarina",
-              "Atividades docentes: foi professor de Direito Administrativo da Faculdade de Direito da Universidade Bandeirante de São Paulo e do Curso de Pós-graduação em Direito Administrativo da Universidade do Oeste de Santa Catarina"
-            ]
-          }
-        ],
-        "history": [],
-        "publications": [
-          {
-            "ref": "CAPAGIO, Álvaro; FRIGERI, Murilo; BARATIERI, Noel (Coord.). Temas de Contratações da Segurança Pública. Habitus Editora, 2026.",
-            "url": "https://www.amazon.com.br/dp/6550352525"
-          },
-          {
-            "ref": "BARATIERI, Noel Antonio. O método de negociação de Harvard na Administração Pública consensual. Porto Alegre: Livraria do Advogado, 2022.",
-            "url": "https://www.livrariadoadvogado.com.br/administrativo/administracao-publica/metodo-de-negociacao-de-harvard-na-administracao-publica-consensual-o"
-          },
-          {
-            "ref": "BARATIERI, Noel Antonio. Serviço Público na Constituição Federal. Porto Alegre: Livraria do Advogado, 2014.",
-            "url": "https://www.livrariadoadvogado.com.br/internacional/publico/servico-publico-na-constituicao-federal"
-          }
-        ],
-        "group": "Advocacia"
-      },
-      {
         "slug": "renata-santoyo",
         "name": "Renata Santoyo",
         "role": "Reguladora Federal",
@@ -1049,7 +972,7 @@
       "Regulação",
       "Advocacia pública",
       "Defesa e segurança",
-      "Controle e qualidade",
+      "Controle externo",
       "Advocacia"
     ]
   },
@@ -1178,7 +1101,7 @@
       },
       {
         "q": "Quem ministra os cursos?",
-        "a": "Nosso corpo docente reúne reguladores federais, procuradores, delegados, conselheiros de tribunal de contas, advogados públicos e privados e especialistas em defesa e metrologia, muitos deles autores de obras jurídicas de referência."
+        "a": "Nosso corpo docente reúne reguladores federais, procuradores, delegados, conselheiros de tribunal de contas, advogados públicos e privados e especialistas em defesa e segurança, muitos deles autores de obras jurídicas de referência."
       },
       {
         "q": "Vocês atendem empresas privadas?",
@@ -1215,7 +1138,6 @@
       "Ministério Público Federal",
       "Polícia Federal",
       "TCE/RS",
-      "Inmetro",
       "Anatel",
       "ANA",
       "CADE",
