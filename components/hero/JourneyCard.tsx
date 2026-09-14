@@ -80,7 +80,7 @@ export function JourneyCard() {
                   className={clsx(
                     "relative z-10 grid h-10 w-10 shrink-0 place-items-center rounded-full border transition-all duration-500",
                     isActive
-                      ? "border-brand-500 bg-brand-500 text-white shadow-[0_8px_20px_-6px_rgba(31,169,255,0.7)]"
+                      ? "border-action-border bg-action text-white shadow-[0_8px_20px_-6px_rgba(20,57,106,0.9)]"
                       : done
                       ? "border-brand-200 bg-brand-50 text-brand-600"
                       : "border-line bg-card text-muted"
@@ -114,7 +114,7 @@ export function JourneyCard() {
                           transition={{ duration: 0.4, delay: 0.1 + ci * 0.08, ease }}
                           className="flex items-start gap-2 rounded-lg bg-mist px-3 py-2 text-[13px] leading-snug text-inkSoft"
                         >
-                          <span className="mt-[6px] h-1 w-1 shrink-0 rounded-full bg-brand-500" />
+                          <span className="mt-[6px] h-1 w-1 shrink-0 rounded-full bg-action" />
                           {c}
                         </motion.li>
                       ))}
@@ -123,7 +123,7 @@ export function JourneyCard() {
                     <div className="mb-2 ml-14 h-0.5 overflow-hidden rounded-full bg-line">
                       <motion.div
                         key={`${active}-${paused}`}
-                        className="h-full bg-brand-500"
+                        className="h-full bg-action"
                         initial={{ width: "0%" }}
                         animate={{ width: paused ? "0%" : "100%" }}
                         transition={{ duration: paused ? 0 : STEP_MS / 1000, ease: "linear" }}

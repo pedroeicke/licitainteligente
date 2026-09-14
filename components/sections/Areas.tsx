@@ -26,7 +26,7 @@ function CourseList({ area }: { area: Area }) {
           transition={{ duration: 0.35, delay: Math.min(i * 0.02, 0.3), ease }}
           className="flex items-start gap-3 rounded-xl border border-line bg-card px-4 py-3 text-sm leading-snug"
         >
-          <span className="mt-[5px] h-1.5 w-1.5 shrink-0 rounded-full bg-brand-500" />
+          <span className="mt-[5px] h-1.5 w-1.5 shrink-0 rounded-full bg-action" />
           {c}
         </motion.li>
       ))}
@@ -110,7 +110,7 @@ export function Areas() {
                       {isActive && (
                         <motion.span
                           layoutId="area-active"
-                          className="absolute inset-0 rounded-2xl bg-brand-500"
+                          className="absolute inset-0 rounded-2xl bg-action"
                           transition={{ type: "spring", stiffness: 400, damping: 36 }}
                         />
                       )}
@@ -173,7 +173,7 @@ export function Areas() {
                   aria-expanded={isOpen}
                   className="flex w-full items-center gap-4 p-4 text-left"
                 >
-                  <span className={clsx("grid h-10 w-10 shrink-0 place-items-center rounded-xl transition-colors", isOpen ? "bg-brand-500 text-white" : "bg-brand-50 text-brand-600")}>
+                  <span className={clsx("grid h-10 w-10 shrink-0 place-items-center rounded-xl transition-colors", isOpen ? "bg-action text-white" : "bg-brand-50 text-brand-600")}>
                     <Icon name={AREA_ICONS[i]} size={20} />
                   </span>
                   <span className="flex-1">

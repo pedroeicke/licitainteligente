@@ -70,10 +70,10 @@ export function Featured() {
                 className="group flex h-full flex-col rounded-[28px] border border-line bg-card p-7 transition-all duration-500 hover:-translate-y-1 hover:border-brand-200 hover:shadow-lift"
               >
                 <div className="flex items-start justify-between gap-4">
-                  <span className="grid h-12 w-12 place-items-center rounded-2xl bg-cardSoft text-brand-400 transition-colors duration-500 group-hover:bg-brand-500 group-hover:text-white">
+                  <span className="grid h-12 w-12 place-items-center rounded-2xl bg-cardSoft text-brand-400 transition-colors duration-500 group-hover:bg-action group-hover:text-white">
                     <Icon name={c.icon} size={22} />
                   </span>
-                  <span className="grid h-10 w-10 place-items-center rounded-full border border-line text-ink transition-all duration-500 group-hover:rotate-45 group-hover:border-brand-500 group-hover:bg-brand-500 group-hover:text-white">
+                  <span className="grid h-10 w-10 place-items-center rounded-full border border-line text-ink transition-all duration-500 group-hover:rotate-45 group-hover:border-action-border group-hover:bg-action group-hover:text-white">
                     <Icon name="arrow" size={16} strokeWidth={2} />
                   </span>
                 </div>

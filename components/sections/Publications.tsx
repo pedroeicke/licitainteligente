@@ -34,7 +34,7 @@ export function Publications() {
                     {organizer.card.title}
                   </span>
                   <p className="mt-2 text-sm font-medium leading-snug">{organizer.card.desc}</p>
-                  <span className="mt-3 inline-block text-xs text-muted group-hover:text-brand-600">Ler matéria na ABRAC →</span>
+                  <span className="mt-3 inline-block text-xs text-muted group-hover:text-white">Ler matéria na ABRAC →</span>
                 </a>
               </Reveal>
             </div>

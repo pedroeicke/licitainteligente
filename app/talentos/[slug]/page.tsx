@@ -92,7 +92,7 @@ export default function TalentPage({ params }: Params) {
                   <ul className="mt-6 flex flex-col divide-y divide-line">
                     {sec.items.map((it) => (
                       <li key={it} className="flex gap-4 py-3.5 text-[15px] leading-relaxed text-inkSoft">
-                        <span className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-brand-500" />
+                        <span className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-action" />
                         {it}
                       </li>
                     ))}
@@ -132,7 +132,7 @@ export default function TalentPage({ params }: Params) {
                             <div>
                               <p className="text-sm leading-relaxed text-inkSoft">{p.ref}</p>
                               {p.note && (
-                                <span className="mt-2 inline-flex rounded-full bg-brand-500 px-3 py-1 text-[11px] font-semibold text-white">{p.note}</span>
+                                <span className="mt-2 inline-flex rounded-full bg-action px-3 py-1 text-[11px] font-semibold text-white">{p.note}</span>
                               )}
                             </div>
                           </div>
@@ -141,7 +141,7 @@ export default function TalentPage({ params }: Params) {
                               href={p.url}
                               target="_blank"
                               rel="noopener noreferrer"
-                              className="inline-flex shrink-0 items-center gap-1.5 self-start rounded-full bg-brand-500 px-4 py-2 text-xs font-semibold text-white transition-colors hover:bg-brand-400 md:self-auto"
+                              className="inline-flex shrink-0 items-center gap-1.5 self-start rounded-full bg-action px-4 py-2 text-xs font-semibold text-white transition-colors hover:bg-action-hover md:self-auto"
                             >
                               Acessar <Icon name="arrow" size={12} strokeWidth={2} />
                             </a>

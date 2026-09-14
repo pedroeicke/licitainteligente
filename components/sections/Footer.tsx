@@ -22,7 +22,7 @@ export function Footer() {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label={s.label}
-                  className="grid h-10 w-10 place-items-center rounded-full border border-line text-inkSoft transition-all hover:border-brand-500 hover:bg-brand-500 hover:text-white"
+                  className="grid h-10 w-10 place-items-center rounded-full border border-line text-inkSoft transition-all hover:border-action-border hover:bg-action hover:text-white"
                 >
                   <SocialIcon label={s.label} className="h-[18px] w-[18px]" />
                 </a>
@@ -35,7 +35,7 @@ export function Footer() {
             <ul className="mt-4 flex flex-col gap-2.5 text-sm">
               {nav.map((n) => (
                 <li key={n.href}>
-                  <Link href={n.href} className="text-inkSoft transition-colors hover:text-brand-600">
+                  <Link href={n.href} className="text-inkSoft transition-colors hover:text-white">
                     {n.label}
                   </Link>
                 </li>
@@ -48,7 +48,7 @@ export function Footer() {
             <ul className="mt-4 flex flex-col gap-2.5 text-sm">
               {areas.items.map((a) => (
                 <li key={a.slug}>
-                  <Link href="/#cursos" className="text-inkSoft transition-colors hover:text-brand-600">
+                  <Link href="/#cursos" className="text-inkSoft transition-colors hover:text-white">
                     {a.title}
                   </Link>
                 </li>
@@ -60,12 +60,12 @@ export function Footer() {
             <p className="text-xs font-semibold uppercase tracking-[0.16em] text-muted">Contato</p>
             <ul className="mt-4 flex flex-col gap-2.5 text-sm text-inkSoft">
               <li>
-                <a href={waLink()} target="_blank" rel="noopener noreferrer" className="hover:text-brand-600">
+                <a href={waLink()} target="_blank" rel="noopener noreferrer" className="hover:text-white">
                   {site.phone}
                 </a>
               </li>
               <li>
-                <a href={`mailto:${site.email}`} className="break-all hover:text-brand-600">
+                <a href={`mailto:${site.email}`} className="break-all hover:text-white">
                   {site.email}
                 </a>
               </li>

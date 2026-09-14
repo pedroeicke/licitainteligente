@@ -16,7 +16,7 @@ export function Institutions() {
             {items.map((name, i) => (
               <span key={i} className="flex items-center gap-12 whitespace-nowrap text-lg font-semibold tracking-tight text-ink/70">
                 {name}
-                <span aria-hidden className="h-1.5 w-1.5 rounded-full bg-brand-400" />
+                <span aria-hidden className="h-1.5 w-1.5 rounded-full bg-action-hover" />
               </span>
             ))}
           </div>

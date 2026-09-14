@@ -45,13 +45,13 @@ export function Method() {
               whileInView={{ scaleX: 1 }}
               viewport={{ once: true, margin: "-100px" }}
               transition={{ duration: 1.6, ease: [0.16, 1, 0.3, 1] }}
-              className="absolute left-0 right-0 top-5 hidden h-px origin-left bg-brand-400 lg:block"
+              className="absolute left-0 right-0 top-5 hidden h-px origin-left bg-action-hover lg:block"
             />
             <ol className="grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-4 lg:gap-8">
               {method.items.map((s, i) => (
                 <Reveal key={s.title} delay={0.15 + i * 0.12}>
                   <li className="relative">
-                    <span className="relative grid h-10 w-10 place-items-center rounded-full bg-brand-500 text-sm font-semibold ring-8 ring-deep">
+                    <span className="relative grid h-10 w-10 place-items-center rounded-full bg-action text-sm font-semibold ring-8 ring-deep">
                       {i + 1}
                     </span>
                     <h3 className="mt-6 text-xl font-semibold">{s.title}</h3>
@@ -66,7 +66,7 @@ export function Method() {
           <div className="mt-20 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
             {differential.norms.map((n, i) => (
               <Reveal key={n.code} delay={i * 0.06} className="h-full">
-                <div className="group h-full rounded-2xl border border-white/10 bg-white/[0.04] p-6 backdrop-blur transition-colors duration-500 hover:border-brand-400/60 hover:bg-brand-500/10">
+                <div className="group h-full rounded-2xl border border-white/10 bg-white/[0.04] p-6 backdrop-blur transition-colors duration-500 hover:border-action-border hover:bg-action/40">
                   <p className="font-serif text-3xl italic text-brand-200">{n.code}</p>
                   <p className="mt-4 font-semibold">{n.title}</p>
                   <p className="mt-1 text-sm text-white/60">{n.desc}</p>

@@ -20,6 +20,12 @@ const config: Config = {
         inkSoft: "rgba(255,255,255,0.72)",
         muted: "rgba(255,255,255,0.55)",
         line: "rgba(255,255,255,0.10)",
+        // Azul dos elementos clicáveis (mesmo tom da badge do hero)
+        action: {
+          DEFAULT: "#14396A",
+          hover: "#1B4A86",
+          border: "#2A5C9A",
+        },
         // Destaque
         brand: {
           50: "#0B2A4F",

@@ -21,7 +21,7 @@ body {
 
 /* Degradê de destaque (cards e blocos azuis) */
 .bg-accent-grad {
-  background: linear-gradient(155deg, #124ba3 0%, #1FA9FF 60%, #5BC0FF 100%);
+  background: linear-gradient(155deg, #0B2A4F 0%, #14396A 55%, #1E4F8C 100%);
 }
 
 html.lenis,

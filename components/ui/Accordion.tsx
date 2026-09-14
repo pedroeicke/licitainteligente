@@ -32,7 +32,7 @@ export function Accordion({ items }: { items: Item[] }) {
                 aria-hidden
                 className={clsx(
                   "grid h-8 w-8 shrink-0 place-items-center rounded-full text-lg transition-all duration-300",
-                  isOpen ? "rotate-45 bg-brand-500 text-white" : "bg-mist text-ink"
+                  isOpen ? "rotate-45 bg-action text-white" : "bg-mist text-ink"
                 )}
               >
                 +

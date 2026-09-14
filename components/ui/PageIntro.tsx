@@ -19,7 +19,7 @@ export function PageIntro({ crumbs, children }: Props) {
           {crumbs.map((c, i) => (
             <span key={i} className="flex items-center gap-2">
               {c.href ? (
-                <Link href={c.href} className="transition-colors hover:text-brand-600">
+                <Link href={c.href} className="transition-colors hover:text-white">
                   {c.label}
                 </Link>
               ) : (

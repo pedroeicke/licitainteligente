@@ -27,7 +27,7 @@ export function Audience() {
           <Reveal className="h-full">
             <article className="relative flex h-full flex-col overflow-hidden rounded-[28px] bg-card p-8 shadow-soft md:p-10">
               <div className="flex items-center justify-between">
-                <span className="grid h-14 w-14 place-items-center rounded-2xl bg-brand-500 text-white">
+                <span className="grid h-14 w-14 place-items-center rounded-2xl bg-action text-white">
                   <Icon name="gov" size={26} />
                 </span>
               </div>

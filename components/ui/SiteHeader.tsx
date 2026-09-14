@@ -57,13 +57,13 @@ export function SiteHeader() {
               href={content.site.catalogUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="hidden rounded-full px-4 py-2.5 text-sm font-medium text-inkSoft transition-colors hover:text-brand-600 md:inline-flex"
+              className="hidden rounded-full px-4 py-2.5 text-sm font-medium text-inkSoft transition-colors hover:text-white md:inline-flex"
             >
               Catálogo PDF
             </a>
             <Link
               href="/#contato"
-              className="hidden rounded-full bg-brand-500 px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-brand-400 sm:inline-flex"
+              className="hidden rounded-full bg-action px-5 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-action-hover sm:inline-flex"
             >
               Fale conosco
             </Link>
@@ -100,7 +100,7 @@ export function SiteHeader() {
                   </li>
                 ))}
                 <li className="flex gap-2 border-t border-line pt-4">
-                  <Link href="/#contato" onClick={() => setOpen(false)} className="rounded-full bg-brand-500 px-5 py-2.5 text-sm font-semibold text-white">
+                  <Link href="/#contato" onClick={() => setOpen(false)} className="rounded-full bg-action px-5 py-2.5 text-sm font-semibold text-white">
                     Fale conosco
                   </Link>
                   <a href={content.site.catalogUrl} target="_blank" rel="noopener noreferrer" className="rounded-full border border-line px-5 py-2.5 text-sm font-medium">

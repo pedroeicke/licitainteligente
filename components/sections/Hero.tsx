@@ -38,8 +38,8 @@ export function Hero() {
           <motion.div {...fadeUp(0)}>
             <span className="inline-flex items-center gap-2 rounded-full border border-brand-100 bg-brand-50 px-3.5 py-1.5 text-xs font-semibold text-brand-700">
               <span className="relative flex h-2 w-2">
-                <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-brand-400 opacity-70" />
-                <span className="relative inline-flex h-2 w-2 rounded-full bg-brand-500" />
+                <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-action-hover opacity-70" />
+                <span className="relative inline-flex h-2 w-2 rounded-full bg-action" />
               </span>
               {hero.eyebrow}
             </span>
@@ -93,7 +93,7 @@ export function Hero() {
             className="relative mx-auto max-w-[480px]"
           >
             {/* cartão escuro atrás, levemente girado */}
-            <div aria-hidden className="absolute inset-x-6 -bottom-4 top-6 rotate-[3deg] rounded-[28px] bg-brand-500" />
+            <div aria-hidden className="absolute inset-x-6 -bottom-4 top-6 rotate-[3deg] rounded-[28px] bg-action" />
             <div className="relative">
               <JourneyCard />
             </div>
@@ -106,7 +106,7 @@ export function Hero() {
               className="absolute -bottom-16 -left-4 hidden sm:block md:-left-12"
             >
               <div className="animate-float flex items-center gap-3 rounded-2xl border border-line bg-card px-4 py-3 text-white shadow-lift">
-                <span className="grid h-9 w-9 place-items-center rounded-xl bg-brand-500">
+                <span className="grid h-9 w-9 place-items-center rounded-xl bg-action">
                   <Icon name="award" size={18} />
                 </span>
                 <div className="leading-tight">

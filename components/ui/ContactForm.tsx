@@ -12,7 +12,7 @@ const UFS = [
 ];
 
 const field =
-  "w-full rounded-xl border border-line bg-mist/60 px-4 py-3.5 text-sm text-ink placeholder:text-muted outline-none transition-all focus:border-brand-500 focus:bg-card focus:ring-4 focus:ring-brand-100";
+  "w-full rounded-xl border border-line bg-mist/60 px-4 py-3.5 text-sm text-ink placeholder:text-muted outline-none transition-all focus:border-action-border focus:bg-card focus:ring-4 focus:ring-brand-100";
 
 /**
  * Formulário de contato (mesmos campos do site original).
@@ -89,8 +89,8 @@ export function ContactForm() {
                 className={clsx(
                   "rounded-full border px-3.5 py-2 text-xs font-medium transition-all md:text-[13px]",
                   active
-                    ? "border-brand-500 bg-brand-500 text-white"
-                    : "border-line bg-card text-inkSoft hover:border-brand-400 hover:text-brand-600"
+                    ? "border-action-border bg-action text-white"
+                    : "border-line bg-card text-inkSoft hover:border-action-border hover:text-white"
                 )}
               >
                 {active && "✓ "}
@@ -109,7 +109,7 @@ export function ContactForm() {
       <div className="mt-2 flex flex-col items-start gap-3 sm:col-span-2 sm:flex-row sm:items-center sm:justify-between">
         <button
           type="submit"
-          className="group inline-flex items-center gap-2.5 rounded-full bg-brand-500 px-7 py-4 text-[15px] font-semibold text-white transition-all hover:-translate-y-0.5 hover:bg-brand-400"
+          className="group inline-flex items-center gap-2.5 rounded-full bg-action px-7 py-4 text-[15px] font-semibold text-white transition-all hover:-translate-y-0.5 hover:bg-action-hover"
         >
           Enviar mensagem
           <Icon name="arrow" size={16} strokeWidth={2} className="transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />

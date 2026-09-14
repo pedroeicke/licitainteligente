@@ -44,7 +44,7 @@ export default function CoursePage({ params }: Params) {
       >
         <div className="mt-10 max-w-4xl">
           <Reveal>
-            <span className="grid h-16 w-16 place-items-center rounded-2xl bg-brand-500 text-white shadow-lift">
+            <span className="grid h-16 w-16 place-items-center rounded-2xl bg-action text-white shadow-lift">
               <Icon name={course.icon} size={30} />
             </span>
           </Reveal>
@@ -133,7 +133,7 @@ export default function CoursePage({ params }: Params) {
                   href={`/cursos/${o.slug}`}
                   className="group flex h-full flex-col gap-4 rounded-[28px] border border-line p-6 transition-all duration-500 hover:-translate-y-1 hover:border-brand-200 hover:shadow-lift"
                 >
-                  <span className="grid h-12 w-12 place-items-center rounded-2xl bg-cardSoft text-brand-400 transition-colors group-hover:bg-brand-500 group-hover:text-white">
+                  <span className="grid h-12 w-12 place-items-center rounded-2xl bg-cardSoft text-brand-400 transition-colors group-hover:bg-action group-hover:text-white">
                     <Icon name={o.icon} size={22} />
                   </span>
                   <h3 className="text-lg font-semibold leading-snug">{o.title}</h3>
