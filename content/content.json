@@ -1123,17 +1123,14 @@
   "institutions": {
     "title": "Nossos talentos atuam ou atuaram em",
     "items": [
-      "ANTT",
-      "Advocacia-Geral da União",
-      "Ministério Público Federal",
-      "Polícia Federal",
-      "TCE/RS",
-      "Anatel",
-      "ANA",
-      "CADE",
-      "Polícia Militar de SP",
-      "Central de Compras · MGI",
-      "ANS"
+      "Conselho Administrativo de Defesa Econômica",
+      "Tribunais de Contas",
+      "Agências Reguladoras",
+      "Ministério Público",
+      "Departamento de Polícia Federal",
+      "Forças Armadas",
+      "Polícia Militar",
+      "Central de Compras · MGI"
     ]
   }
 }
