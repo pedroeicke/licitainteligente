@@ -74,7 +74,7 @@ export function Talents() {
                 transition={{ duration: 0.4, ease: [0.16, 1, 0.3, 1] }}
               >
                 <Link href={`/talentos/${t.slug}`} className="group block">
-                  <div className="relative aspect-[4/5] overflow-hidden rounded-3xl bg-mist">
+                  <div className="relative aspect-[3/4] overflow-hidden rounded-3xl bg-mist">
                     <Image
                       src={t.photo}
                       alt={t.name}
@@ -83,9 +83,6 @@ export function Talents() {
                       className="object-cover object-top transition-transform duration-700 group-hover:scale-105"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-paper/80 via-transparent to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
-                    <span className="absolute left-3 top-3 rounded-full bg-paper/75 text-white px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider text-ink backdrop-blur">
-                      {t.group}
-                    </span>
                     <span className="absolute bottom-3 right-3 grid h-10 w-10 translate-y-3 place-items-center rounded-full bg-action text-white opacity-0 transition-all duration-500 group-hover:translate-y-0 group-hover:opacity-100">
                       <Icon name="arrow" size={16} strokeWidth={2} />
                     </span>

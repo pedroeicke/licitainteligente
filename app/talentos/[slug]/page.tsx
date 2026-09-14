@@ -43,11 +43,8 @@ export default function TalentPage({ params }: Params) {
       >
         <div className="mt-10 grid grid-cols-1 items-center gap-10 md:grid-cols-12 md:gap-14">
           <Reveal className="md:col-span-5 lg:col-span-4">
-            <div className="relative mx-auto aspect-[4/5] w-full max-w-[380px] overflow-hidden rounded-[32px] bg-mist shadow-lift md:mx-0">
+            <div className="relative mx-auto aspect-[3/4] w-full max-w-[380px] overflow-hidden rounded-[32px] bg-mist shadow-lift md:mx-0">
               <Image src={talent.photo} alt={talent.name} fill priority sizes="(max-width: 768px) 90vw, 380px" className="object-cover object-top" />
-              <span className="absolute left-4 top-4 rounded-full bg-paper/75 text-white px-3 py-1.5 text-xs font-semibold backdrop-blur">
-                {talent.group}
-              </span>
             </div>
           </Reveal>
 
