@@ -450,28 +450,28 @@
             "url": "https://www.amazon.com.br/dp/6551772498"
           },
           {
-            "ref": "CAPAGIO, Álvaro. Temas de Contratações da Segurança Pública. Habitus Editora, 2026.",
+            "ref": "CAPAGIO, Álvaro; FRIGERI, Murilo; BARATIERI, Noel. Temas de Contratações da Segurança Pública. Habitus Editora, 2026.",
             "url": "https://www.amazon.com.br/dp/6550352525"
           },
           {
-            "ref": "CAPAGIO, Álvaro. Curso de Direito Administrativo. 5. ed. Saraiva Jur, 2022.",
+            "ref": "CAPAGIO, Álvaro; COUTO, Reinaldo. Curso de Direito Administrativo. 5. ed. Saraiva Jur, 2022.",
             "note": "Cupom de desconto: VALECAPAGIO",
             "url": "https://www.editoradodireito.com.br/livro-curso-de-direito-administrativo-reinaldo-de-souza-couto-filho-saraiva-jur-9786553621879"
           },
           {
-            "ref": "CAPAGIO, Álvaro. Nova Lei de Licitações e Contratos Administrativos: Lei n. 14.133/2021. Saraiva Jur, 2021.",
+            "ref": "CAPAGIO, Álvaro; COUTO, Reinaldo. Nova Lei de Licitações e Contratos Administrativos: Lei n. 14.133/2021. Saraiva Jur, 2021.",
             "url": "https://www.amazon.com.br/dp/6555598255"
           },
           {
-            "ref": "GONÇALVES, Everton das Neves; CAPAGIO, Álvaro do Canto. Análise econômico-jurídica das decisões político-normativas sobre transportes no Brasil. In: GONÇALVES, Everton das Neves; AZEVEDO, Lyza Anzanello de; GONÇALVES, Jéssica (Org.). Direito, Justiça e Economia: a influência dos parâmetros econômicos na esfera legal. 1. ed. Florianópolis: Emais, 2023, v. 2.",
+            "ref": "GONÇALVES, Everton das Neves; CAPAGIO, Álvaro. Análise econômico-jurídica das decisões político-normativas sobre transportes no Brasil. In: GONÇALVES, Everton das Neves; AZEVEDO, Lyza Anzanello de; GONÇALVES, Jéssica (Org.). Direito, Justiça e Economia: a influência dos parâmetros econômicos na esfera legal. 1. ed. Florianópolis: Emais, 2023, v. 2.",
             "url": "https://emaiseditora.com.br/produto/direito-jutica-e-economia-2/"
           },
           {
-            "ref": "CAPAGIO, Álvaro do Canto; BARATIERI, Noel Antonio. O parecer jurídico. In: HARGER, Marcelo (Coord.). Aspectos polêmicos sobre a nova Lei de Licitações e Contratos Administrativos: Lei nº 14.133/2021. Belo Horizonte: Fórum, 2022.",
+            "ref": "CAPAGIO, Álvaro; BARATIERI, Noel Antonio. O parecer jurídico. In: HARGER, Marcelo (Coord.). Aspectos polêmicos sobre a nova Lei de Licitações e Contratos Administrativos: Lei nº 14.133/2021. Belo Horizonte: Fórum, 2022.",
             "url": "https://loja.editoraforum.com.br/aspectos-polemicos-sobre-a-nova-lei-de-licitacoes-e-contratos-administrativos"
           },
           {
-            "ref": "CAPAGIO, Álvaro do Canto; FILPI, Humberto Francisco Ferreira Campos Morato. Política energética europeia e Euro Standards: regulação da melhor técnica disponível para redução de emissões. In: DERANI, Cristiane; MOURA, Aline Beltrame de; NOSCHANG, Patricia Grazziontin (Orgs.). A regulação europeia sobre a água, energia e alimento para a sustentabilidade ambiental. Florianópolis: Emais, 2021.",
+            "ref": "CAPAGIO, Álvaro; FILPI, Humberto Francisco Ferreira Campos Morato. Política energética europeia e Euro Standards: regulação da melhor técnica disponível para redução de emissões. In: DERANI, Cristiane; MOURA, Aline Beltrame de; NOSCHANG, Patricia Grazziontin (Orgs.). A regulação europeia sobre a água, energia e alimento para a sustentabilidade ambiental. Florianópolis: Emais, 2021.",
             "note": "Acesso gratuito"
           }
         ],
@@ -744,7 +744,12 @@
           }
         ],
         "history": [],
-        "publications": [],
+        "publications": [
+          {
+            "ref": "Coautora em: CAPAGIO, Álvaro; FRIGERI, Murilo; BARATIERI, Noel. Temas de Contratações da Segurança Pública. Habitus Editora, 2026.",
+            "url": "https://www.amazon.com.br/dp/6550352525"
+          }
+        ],
         "group": "Advocacia pública"
       },
       {
@@ -783,7 +788,12 @@
           }
         ],
         "history": [],
-        "publications": [],
+        "publications": [
+          {
+            "ref": "CAPAGIO, Álvaro; FRIGERI, Murilo; BARATIERI, Noel. Temas de Contratações da Segurança Pública. Habitus Editora, 2026.",
+            "url": "https://www.amazon.com.br/dp/6550352525"
+          }
+        ],
         "group": "Defesa e segurança"
       },
       {
@@ -1009,34 +1019,34 @@
       {
         "title": "Direito da Infraestrutura da Qualidade",
         "authors": "Álvaro Capagio",
-        "publisher": "Saraiva Jur",
+        "publisher": "Saraiva Jur · 2026",
         "cover": "/livros/direito-infraestrutura-qualidade.jpg",
         "url": "https://www.amazon.com.br/dp/6551772498",
         "desc": "Reúne estudos motivados pela necessidade de melhorar a qualidade da execução orçamentária mediante o uso de certificações em contratações públicas. A obra percorre normas técnicas, certificações, acreditação, regulação e contratações públicas, a partir da experiência do autor na liderança de projetos nacionais — desde soluções técnicas para a aquisição de produtos até a avaliação da conformidade de empreendimentos de infraestruturas críticas."
       },
       {
         "title": "Nova Lei de Licitações e Contratos Administrativos",
-        "authors": "Álvaro Capagio",
-        "publisher": "Saraiva Jur",
+        "authors": "Álvaro Capagio · Reinaldo Couto",
+        "publisher": "Saraiva Jur · 2021",
         "cover": "/livros/nova-lei-licitacoes.jpg",
         "url": "https://www.amazon.com.br/dp/6555598255",
-        "desc": "Esta obra tem como objetivo analisar a nova Lei de Licitações e Contratos Administrativos (Lei n. 14.133/2021), com uma linguagem direta e aprofundada, inclusive comparando-a com os textos normativos da antiga Lei n. 8.666/93. Além dos comentários do autor, apresenta um considerável repertório jurisprudencial, com o entendimento atualizado do STF, STJ e do TCU, bem como das Orientações Normativas da AGU e dos Enunciados da Jornada de Direito Administrativo, a respeito de cada artigo."
+        "desc": "Esta obra tem como objetivo analisar a nova Lei de Licitações e Contratos Administrativos (Lei n. 14.133/2021), com uma linguagem direta e aprofundada, inclusive comparando-a com os textos normativos da antiga Lei n. 8.666/93. Além dos comentários dos autores, apresenta um considerável repertório jurisprudencial, com o entendimento atualizado do STF, STJ e do TCU, bem como das Orientações Normativas da AGU e dos Enunciados da Jornada de Direito Administrativo, a respeito de cada artigo."
       },
       {
         "title": "Curso de Direito Administrativo",
-        "authors": "Álvaro Capagio",
-        "publisher": "Saraiva Jur",
+        "authors": "Álvaro Capagio · Reinaldo Couto",
+        "publisher": "Saraiva Jur · 2022",
         "cover": "/livros/curso-direito-administrativo.jpg",
         "url": "https://www.amazon.com.br/dp/655362187X",
         "desc": "Apresenta a disciplina completa de forma clara e objetiva, sem deixar de lado a densidade nos conteúdos de maior relevância. A obra foi revista, atualizada e ampliada, abordando as inovações da Nova Lei de Licitações (Lei n. 14.133/2021), a Nova Lei de Improbidade Administrativa (Lei n. 14.230/2021) e a decisão coordenada instituída pela Lei n. 14.210/2021."
       },
       {
         "title": "Temas de Contratações da Segurança Pública",
-        "authors": "Álvaro Capagio",
-        "publisher": "Habitus Editora",
+        "authors": "Álvaro Capagio · Murilo Frigeri · Noel Baratieri",
+        "publisher": "Habitus Editora · 2026",
         "cover": "/livros/temas-contratacoes-seguranca-publica.jpg",
         "url": "https://www.amazon.com.br/dp/6550352525",
-        "desc": "Obra que discute, com sólida base prática e acadêmica, as contratações voltadas à segurança pública, com abordagem multidisciplinar que conecta aspectos jurídicos, operacionais e técnicos: aquisição de armamentos, veículos blindados, certificações de materiais bélicos, treinamento policial, licitações internacionais e governança nas compras públicas."
+        "desc": "Obra coletiva que reúne especialistas com sólida experiência prática e acadêmica para discutir as contratações voltadas à segurança pública, com abordagem multidisciplinar que conecta aspectos jurídicos, operacionais e técnicos: aquisição de armamentos, veículos blindados, certificações de materiais bélicos, treinamento policial, licitações internacionais e governança nas compras públicas."
       }
     ]
   },
