@@ -3,17 +3,31 @@
 import { useEffect } from "react";
 import Lenis from "lenis";
 
+declare global {
+  interface Window {
+    __lenis?: Lenis;
+  }
+}
+
+/** Rola até um elemento usando o Lenis (se ativo) ou o scroll nativo */
+export function scrollToEl(el: HTMLElement, offset = -110) {
+  if (window.__lenis) {
+    window.__lenis.scrollTo(el, { offset, duration: 0.9 });
+  } else {
+    window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY + offset, behavior: "smooth" });
+  }
+}
+
 export function SmoothScroll() {
   useEffect(() => {
     const lenis = new Lenis({
-      duration: 1.2,
+      duration: 1,
       easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
       smoothWheel: true,
-      // wheel mais "controlado": cada rolagem anda menos → seções
-      // longas (hero) permanecem mais tempo, sem momentum atravessar voando
-      wheelMultiplier: 0.82,
+      wheelMultiplier: 1,
       touchMultiplier: 1,
     });
+    window.__lenis = lenis;
 
     let rafId = 0;
     const raf = (time: number) => {
@@ -25,6 +39,7 @@ export function SmoothScroll() {
     return () => {
       cancelAnimationFrame(rafId);
       lenis.destroy();
+      window.__lenis = undefined;
     };
   }, []);
 
