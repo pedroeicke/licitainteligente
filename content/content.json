@@ -69,12 +69,8 @@
   "about": {
     "badge": "Quem somos",
     "title": "Licitações Inteligentes",
-    "body": "Licitações Inteligentes é a marca registrada da sociedade empresária Negócios Inteligentes para o desenvolvimento profissional e gerencial em contratações públicas e temas correlatos, com soluções especializadas para a Administração Pública e empresas que contratam com o Poder Público, de acordo com suas características e nichos de atividades.",
+    "body": "Licitações Inteligentes é a marca registrada da sociedade empresária Negócios Inteligentes para o desenvolvimento profissional e gerencial em contratações públicas e temas correlatos, com soluções especializadas para a Administração Pública e para empresas que contratam com o Poder Público, de acordo com suas características e nichos de atividades.",
     "stats": [
-      {
-        "value": "14",
-        "label": "Talentos no corpo docente"
-      },
       {
         "value": "6",
         "label": "Áreas temáticas"
@@ -112,8 +108,7 @@
         "title": "Organizações educacionais",
         "desc": "Sistemas de gestão para organizações educacionais."
       }
-    ],
-    "footnote": "Empregamos as normas técnicas internacionais ISO 10015, 10018, 29992 e 21001 com vistas a alcançar nível de excelência em resultados."
+    ]
   },
   "areas": {
     "badge": "Cursos",
@@ -200,7 +195,7 @@
         "courses": [
           "Processo de apuração de responsabilidade contratual",
           "Processo administrativo de responsabilização",
-          "Processo administrativo disciplinar: a visão da Corregedoria e a visão da Defesa",
+          "Processo administrativo disciplinar",
           "Improbidade administrativa em gestão e contratos administrativos"
         ]
       }
@@ -434,7 +429,9 @@
               "Membro titular do Comitê Brasileiro de Normalização",
               "Membro titular do Comitê Brasileiro de Avaliação da Conformidade",
               "Coordenador do Acordo de Cooperação Técnica n. 4/2022, celebrado entre a Agência Nacional de Transportes Terrestres e o Instituto Nacional de Metrologia, Qualidade e Tecnologia, para o desenvolvimento de parâmetros de qualidade e segurança em projetos e obras de infraestrutura pública federal",
-              "Autor de livros jurídicos da área de Direito Administrativo e Regulatório"
+              "Autor de livros jurídicos da área de Direito Administrativo e Regulatório",
+              "Coordenador científico do Congresso Nacional de Compras da Segurança Pública (COMPRASEG)",
+              "Coordenador da coleção Temas de Contratações da Segurança Pública."
             ]
           }
         ],
@@ -447,20 +444,27 @@
         "publications": [
           {
             "ref": "CAPAGIO, Álvaro. Direito da Infraestrutura da Qualidade. 1. ed. Saraiva Jur, 2026.",
-            "url": "https://www.amazon.com.br/dp/6551772498"
+            "url": "https://www.grupogen.com.br/livro-direito-da-infraestrutura-da-qualidade-1-edicao-2027-alvaro-capagio-saraiva-jur-9786551772498"
           },
           {
             "ref": "CAPAGIO, Álvaro; FRIGERI, Murilo; BARATIERI, Noel. Temas de Contratações da Segurança Pública. Habitus Editora, 2026.",
-            "url": "https://www.amazon.com.br/dp/6550352525"
+            "url": "https://www.habituseditora.com.br/index.php?q=tc26"
           },
           {
             "ref": "CAPAGIO, Álvaro; COUTO, Reinaldo. Curso de Direito Administrativo. 5. ed. Saraiva Jur, 2022.",
-            "note": "Cupom de desconto: VALECAPAGIO",
-            "url": "https://www.editoradodireito.com.br/livro-curso-de-direito-administrativo-reinaldo-de-souza-couto-filho-saraiva-jur-9786553621879"
+            "url": "https://www.amazon.com.br/dp/B09VCK98QJ"
           },
           {
             "ref": "CAPAGIO, Álvaro; COUTO, Reinaldo. Nova Lei de Licitações e Contratos Administrativos: Lei n. 14.133/2021. Saraiva Jur, 2021.",
             "url": "https://www.amazon.com.br/dp/6555598255"
+          },
+          {
+            "ref": "OLIVEIRA, Amanda Flávio de; CAPAGIO, Álvaro. Abuso de poder regulatório no mercado de transporte rodoviário coletivo interestadual de passageiros. In: GONÇALVES, Everton das Neves; CAPAGIO, Álvaro. Análise econômico-jurídica das decisões político-normativas sobre transportes no Brasil. In: GONÇALVES, Everton das Neves; AZEVEDO, Lyza Anzanello de; GONÇALVES, Jéssica (Org.). Direito, Justiça e Economia: a influência dos parâmetros econômicos na esfera legal. 3. ed. Florianópolis: Emais, 2026, v. 3.",
+            "url": "https://emaiseditora.com.br/produto/direito-jutica-e-economia-vol-3/"
+          },
+          {
+            "ref": "CAPAGIO, Álvaro; ARRUDA JUNIOR, Manoel Coelho. O juiz natural das palavras ditas por parlamentares. In: CARVALHO NETO, Tarcisio Vieira de; OSORIO, Aline; CARVALHO, José Henrique Lavocat Galvão Vieira de (Org.). Liberdade de expressão e direito eleitoral. 1. ed. Belo Horizonte: Fórum, 2026.",
+            "url": "https://negocios.forumconhecimento.com.br/produto/liberdade-de-expressao-e-direito-eleitoral-153164"
           },
           {
             "ref": "GONÇALVES, Everton das Neves; CAPAGIO, Álvaro. Análise econômico-jurídica das decisões político-normativas sobre transportes no Brasil. In: GONÇALVES, Everton das Neves; AZEVEDO, Lyza Anzanello de; GONÇALVES, Jéssica (Org.). Direito, Justiça e Economia: a influência dos parâmetros econômicos na esfera legal. 1. ed. Florianópolis: Emais, 2023, v. 2.",
@@ -472,10 +476,15 @@
           },
           {
             "ref": "CAPAGIO, Álvaro; FILPI, Humberto Francisco Ferreira Campos Morato. Política energética europeia e Euro Standards: regulação da melhor técnica disponível para redução de emissões. In: DERANI, Cristiane; MOURA, Aline Beltrame de; NOSCHANG, Patricia Grazziontin (Orgs.). A regulação europeia sobre a água, energia e alimento para a sustentabilidade ambiental. Florianópolis: Emais, 2021.",
-            "note": "Acesso gratuito"
+            "note": "Acesso gratuito",
+            "url": "https://drive.google.com/file/d/1SdX6ciSYDcSIZMszQpg8uq7TpYvGOWTK/view"
           }
         ],
-        "group": "Regulação"
+        "groups": [
+          "Regulação",
+          "Gestão de Contratações",
+          "Defesa e Segurança"
+        ]
       },
       {
         "slug": "alessandro-moraes",
@@ -510,7 +519,7 @@
             "url": "https://letrasjuridicas.com.br/temas-processuais-penais-das-atualidade"
           }
         ],
-        "group": "Defesa e segurança"
+        "groups": []
       },
       {
         "slug": "ana-moraes",
@@ -550,7 +559,9 @@
             "ref": "SARQUIS, Alexandre Manir Figueiredo; WARPECHOWSKI, Ana Cristina Moraes (Orgs.). Previdência e reforma em debate: estudos multidisciplinares sob a perspectiva do regime próprio. São Paulo: Lualri, 2019."
           }
         ],
-        "group": "Controle externo"
+        "groups": [
+          "Controle"
+        ]
       },
       {
         "slug": "carlos-veras",
@@ -588,7 +599,10 @@
             "ref": "NEVES, Carlos Eduardo Veras; VILELA, Danilo Vieira. Reflexões sobre as novas outorgas no setor ferroviário no Brasil. Cadernos de Finanças Públicas, v. 15, p. 193-223, 2015."
           }
         ],
-        "group": "Regulação"
+        "groups": [
+          "Regulação",
+          "Gestão de Contratações"
+        ]
       },
       {
         "slug": "danielle-barroncas",
@@ -613,7 +627,9 @@
         ],
         "history": [],
         "publications": [],
-        "group": "Advocacia"
+        "groups": [
+          "Advocacia"
+        ]
       },
       {
         "slug": "hugo-ribeiro",
@@ -654,7 +670,10 @@
             "ref": "RIBEIRO, Hugo Alves Silva; SILVA, A. P.; PEIXOTO, N. E. S.; ROCHA, C. H. Plataformas elevatórias em ônibus interestadual: regulamentação de Política Pública de acessibilidade. Perspectivas em Políticas Públicas, v. XII, p. 27-58, 2019."
           }
         ],
-        "group": "Regulação"
+        "groups": [
+          "Regulação",
+          "Gestão de Contratações"
+        ]
       },
       {
         "slug": "joao-coelho",
@@ -690,7 +709,9 @@
         ],
         "history": [],
         "publications": [],
-        "group": "Regulação"
+        "groups": [
+          "Regulação"
+        ]
       },
       {
         "slug": "lara-brainer",
@@ -750,7 +771,9 @@
             "url": "https://www.amazon.com.br/dp/6550352525"
           }
         ],
-        "group": "Advocacia pública"
+        "groups": [
+          "Gestão de Contratações"
+        ]
       },
       {
         "slug": "murilo-frigeri",
@@ -769,7 +792,9 @@
               "Capitão de Polícia Militar",
               "Graduado em Ciências Policiais de Segurança e Ordem Pública pela Academia de Polícia Militar do Barro Branco",
               "Graduando em Engenharia Mecânica pela Faculdade Estácio de São Paulo",
-              "Atuação profissional: pesquisa, especificação, criação de Termo de Referência e métodos de controle de qualidade para compras institucionais e renovação de equipamentos da Polícia Militar do Estado de São Paulo"
+              "Atuação profissional: pesquisa, especificação, criação de Termo de Referência e métodos de controle de qualidade para compras institucionais e renovação de equipamentos da Polícia Militar do Estado de São Paulo",
+              "Coordenador científico do Congresso Nacional de Compras da Segurança Pública (COMPRASEG)",
+              "Coordenador da coleção Temas de Contratações da Segurança Pública."
             ]
           },
           {
@@ -794,7 +819,10 @@
             "url": "https://www.amazon.com.br/dp/6550352525"
           }
         ],
-        "group": "Defesa e segurança"
+        "groups": [
+          "Gestão de Contratações",
+          "Defesa e Segurança"
+        ]
       },
       {
         "slug": "renata-santoyo",
@@ -831,7 +859,9 @@
         ],
         "history": [],
         "publications": [],
-        "group": "Regulação"
+        "groups": [
+          "Regulação"
+        ]
       },
       {
         "slug": "rodrigo-lacerda",
@@ -855,7 +885,10 @@
         ],
         "history": [],
         "publications": [],
-        "group": "Regulação"
+        "groups": [
+          "Regulação",
+          "Gestão de Contratações"
+        ]
       },
       {
         "slug": "thiago-carvalho",
@@ -893,7 +926,9 @@
         ],
         "history": [],
         "publications": [],
-        "group": "Defesa e segurança"
+        "groups": [
+          "Defesa e Segurança"
+        ]
       },
       {
         "slug": "valdir-oliveira",
@@ -919,7 +954,9 @@
           "Oficial Intendente da Aeronáutica: oficial de carreira, diplomado pelo Curso de Formação de Oficiais Intendentes da Academia da Força Aérea. Atuação em execução orçamentária e financeira, ocupando as funções de gestor de material, licitações e finanças."
         ],
         "publications": [],
-        "group": "Advocacia pública"
+        "groups": [
+          "Controle"
+        ]
       },
       {
         "slug": "viviane-mendes",
@@ -964,16 +1001,18 @@
             "ref": "MENDES, Viviane Alfradique Martins de Figueiredo. A Advocacia Pública na Defesa das Políticas Públicas, da Gestão Responsável e da Segurança Jurídica. Publicações da Escola da AGU: Direito, Gestão e Democracia, v. 10, p. 177-187, 2018."
           }
         ],
-        "group": "Advocacia pública"
+        "groups": [
+          "Advocacia"
+        ]
       }
     ],
     "groups": [
       "Todos",
       "Regulação",
-      "Advocacia pública",
-      "Defesa e segurança",
-      "Controle externo",
-      "Advocacia"
+      "Gestão de Contratações",
+      "Advocacia",
+      "Defesa e Segurança",
+      "Controle"
     ]
   },
   "publicAudience": {
@@ -1000,7 +1039,7 @@
       },
       {
         "title": "Fundamentação",
-        "desc": "Exposição da matéria com base na legislação, na regulamentação e na jurisprudência dos Tribunais de Contas."
+        "desc": "Exposição da matéria com base na doutrina, legislação, jurisprudência e boas práticas reconhecidas na matéria."
       },
       {
         "title": "Prática",
@@ -1008,7 +1047,7 @@
       },
       {
         "title": "Resultados",
-        "desc": "Avaliação orientada pelas normas ISO para alcançar nível de excelência em resultados."
+        "desc": "Avaliação orientada por normas técnicas internacionais aplicáveis para o nível de excelência em resultados."
       }
     ]
   },
@@ -1021,7 +1060,7 @@
         "authors": "Álvaro Capagio",
         "publisher": "Saraiva Jur · 2026",
         "cover": "/livros/direito-infraestrutura-qualidade.jpg",
-        "url": "https://www.amazon.com.br/dp/6551772498",
+        "url": "https://www.grupogen.com.br/livro-direito-da-infraestrutura-da-qualidade-1-edicao-2027-alvaro-capagio-saraiva-jur-9786551772498",
         "desc": "Reúne estudos motivados pela necessidade de melhorar a qualidade da execução orçamentária mediante o uso de certificações em contratações públicas. A obra percorre normas técnicas, certificações, acreditação, regulação e contratações públicas, a partir da experiência do autor na liderança de projetos nacionais — desde soluções técnicas para a aquisição de produtos até a avaliação da conformidade de empreendimentos de infraestruturas críticas."
       },
       {
@@ -1037,7 +1076,7 @@
         "authors": "Álvaro Capagio · Reinaldo Couto",
         "publisher": "Saraiva Jur · 2022",
         "cover": "/livros/curso-direito-administrativo.jpg",
-        "url": "https://www.amazon.com.br/dp/655362187X",
+        "url": "https://www.amazon.com.br/dp/B09VCK98QJ",
         "desc": "Apresenta a disciplina completa de forma clara e objetiva, sem deixar de lado a densidade nos conteúdos de maior relevância. A obra foi revista, atualizada e ampliada, abordando as inovações da Nova Lei de Licitações (Lei n. 14.133/2021), a Nova Lei de Improbidade Administrativa (Lei n. 14.230/2021) e a decisão coordenada instituída pela Lei n. 14.210/2021."
       },
       {
@@ -1045,7 +1084,7 @@
         "authors": "Álvaro Capagio · Murilo Frigeri · Noel Baratieri",
         "publisher": "Habitus Editora · 2026",
         "cover": "/livros/temas-contratacoes-seguranca-publica.jpg",
-        "url": "https://www.amazon.com.br/dp/6550352525",
+        "url": "https://www.habituseditora.com.br/index.php?q=tc26",
         "desc": "Obra coletiva que reúne especialistas com sólida experiência prática e acadêmica para discutir as contratações voltadas à segurança pública, com abordagem multidisciplinar que conecta aspectos jurídicos, operacionais e técnicos: aquisição de armamentos, veículos blindados, certificações de materiais bélicos, treinamento policial, licitações internacionais e governança nas compras públicas."
       }
     ]
@@ -1137,11 +1176,13 @@
       "Tribunais de Contas",
       "Agências Reguladoras",
       "Ministério Público",
-      "Departamento de Polícia Federal",
       "Forças Armadas",
       "Polícia Militar",
       "Central de Compras · MGI",
-      "Advocacia-Geral da União"
+      "Advocacia-Geral da União",
+      "Poder Judiciário",
+      "Polícia Judiciária",
+      "Receita Federal"
     ]
   }
 }

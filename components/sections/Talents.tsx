@@ -15,7 +15,7 @@ export function Talents() {
   const [group, setGroup] = useState("Todos");
 
   const list = useMemo(
-    () => (group === "Todos" ? talents.list : talents.list.filter((t) => t.group === group)),
+    () => (group === "Todos" ? talents.list : talents.list.filter((t) => t.groups.includes(group))),
     [group, talents.list]
   );
 
@@ -43,13 +43,14 @@ export function Talents() {
         <Reveal delay={0.1}>
           <div className="no-scrollbar -mx-6 mt-10 flex gap-2 overflow-x-auto px-6 md:mx-0 md:flex-wrap md:px-0">
             {talents.groups.map((g) => {
-              const count = g === "Todos" ? talents.list.length : talents.list.filter((t) => t.group === g).length;
+              const count = g === "Todos" ? talents.list.length : talents.list.filter((t) => t.groups.includes(g)).length;
               const active = g === group;
               return (
                 <button
                   key={g}
                   type="button"
                   onClick={() => setGroup(g)}
+                  aria-pressed={active}
                   className={clsx(
                     "shrink-0 rounded-full border px-4 py-2 text-sm font-medium transition-all",
                     active ? "border-action-border bg-action text-white" : "border-line bg-card text-inkSoft hover:border-action-border hover:text-white"

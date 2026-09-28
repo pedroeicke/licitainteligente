@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 import content from "@/content/content.json";
 import { Button } from "@/components/ui/Button";
-import { Icon } from "@/components/ui/Icon";
 import { Counter } from "@/components/ui/Counter";
 import { JourneyCard } from "@/components/hero/JourneyCard";
 
@@ -71,7 +70,7 @@ export function Hero() {
             </Button>
           </motion.div>
 
-          <motion.dl {...fadeUp(0.32)} className="mt-12 grid max-w-xl grid-cols-3 gap-6 border-t border-line pt-8">
+          <motion.dl {...fadeUp(0.32)} className="mt-12 grid max-w-xl grid-cols-2 gap-6 border-t border-line pt-8">
             {about.stats.map((s) => (
               <div key={s.label}>
                 <dt className="sr-only">{s.label}</dt>
@@ -97,24 +96,6 @@ export function Hero() {
             <div className="relative">
               <JourneyCard />
             </div>
-
-            {/* chip flutuante */}
-            <motion.div
-              initial={{ opacity: 0, scale: 0.9 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ duration: 0.8, delay: 0.9, ease }}
-              className="absolute -bottom-16 -left-4 hidden sm:block md:-left-12"
-            >
-              <div className="animate-float flex items-center gap-3 rounded-2xl border border-line bg-card px-4 py-3 text-white shadow-lift">
-                <span className="grid h-9 w-9 place-items-center rounded-xl bg-action">
-                  <Icon name="award" size={18} />
-                </span>
-                <div className="leading-tight">
-                  <p className="text-sm font-semibold">4 normas ISO</p>
-                  <p className="text-[11px] text-white/60">10015 · 10018 · 29992 · 21001</p>
-                </div>
-              </div>
-            </motion.div>
           </motion.div>
         </div>
       </div>

@@ -12,7 +12,7 @@ const PILLARS = [
 ];
 
 export function About() {
-  const { about, differential } = content;
+  const { about } = content;
 
   return (
     <section id="quem-somos" className="scroll-mt-24 bg-paper py-24 md:py-36">
@@ -45,10 +45,6 @@ export function About() {
             </Reveal>
           ))}
         </div>
-
-        <Reveal delay={0.1}>
-          <p className="mt-8 text-sm text-muted">{differential.footnote}</p>
-        </Reveal>
       </div>
     </section>
   );
