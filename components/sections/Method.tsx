@@ -66,10 +66,10 @@ export function Method() {
           <div className="mt-20 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
             {differential.norms.map((n, i) => (
               <Reveal key={n.code} delay={i * 0.06} className="h-full">
-                <div className="group h-full rounded-2xl border border-white/10 bg-white/[0.04] p-6 backdrop-blur transition-colors duration-500 hover:border-action-border hover:bg-action/40">
-                  <p className="font-serif text-3xl italic text-brand-200">{n.code}</p>
-                  <p className="mt-4 font-semibold">{n.title}</p>
-                  <p className="mt-1 text-sm text-white/60">{n.desc}</p>
+                <div className="group flex h-full flex-col rounded-2xl border border-white/10 bg-white/[0.04] p-6 backdrop-blur transition-colors duration-500 hover:border-action-border hover:bg-action/40">
+                  <h3 className="font-serif text-3xl leading-tight italic text-brand-200">{n.title}</h3>
+                  <p className="mt-4 text-sm leading-relaxed text-white/60">{n.desc}</p>
+                  <p className="mt-auto pt-5 text-xs text-white/40">{n.code}</p>
                 </div>
               </Reveal>
             ))}
