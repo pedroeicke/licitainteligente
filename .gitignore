@@ -6,3 +6,4 @@ out/
 *.log
 .claude/
 .tmp-fotos/
+public/retratos/*.png
