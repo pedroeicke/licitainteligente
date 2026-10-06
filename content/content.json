@@ -389,6 +389,124 @@
     "body": "Um corpo docente formado por profissionais que conduzem, fiscalizam e controlam contratações públicas em algumas das instituições mais relevantes do país.",
     "list": [
       {
+        "slug": "carlos-veras",
+        "name": "Carlos Veras",
+        "role": "Regulador Federal",
+        "photo": "/retratos/carlos-veras.jpg",
+        "summary": [
+          "Doutor em Economia Aplicada pela Universidade de Brasília",
+          "Especialista em Big Data and Social Analytics pelo Massachusetts Institute of Technology"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Bacharel em Engenharia Civil pela Universidade de Brasília",
+              "Especialista em Gestão Empresarial com ênfase em Estratégia pela Fundação Getúlio Vargas",
+              "Especialista em Big Data and Social Analytics pelo Massachusetts Institute of Technology",
+              "Especialista no Conselho Administrativo de Defesa Econômica",
+              "Mestre em Geotecnia pela Universidade de Brasília",
+              "Doutor em Economia Aplicada pela Universidade de Brasília",
+              "Autor de vários artigos científicos",
+              "Funções públicas anteriores: Auditor Interno da Companhia do Desenvolvimento do Vale do São Francisco e Parnaíba; Analista em Infraestrutura do Departamento Nacional de Infraestrutura de Transportes"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [
+          {
+            "ref": "NEVES, Carlos Eduardo Veras; BERTUSSI, Geovana Lorena. Proposta de Metodologia de Cálculo do Fator X em Contratos de Concessão para Exploração da Infraestrutura Rodoviária Federal. Revista da CGU, v. 13, p. 237-253, 2021."
+          },
+          {
+            "ref": "NEVES, Carlos Eduardo Veras; BERTUSSI, Geovana Lorena. Eficiência em concessões de rodovias federais brasileiras. Revista de Economia e Agronegócio, v. 17, p. 272-291, 2019."
+          },
+          {
+            "ref": "NEVES, Carlos Eduardo Veras; VILELA, Danilo Vieira. Reflexões sobre as novas outorgas no setor ferroviário no Brasil. Cadernos de Finanças Públicas, v. 15, p. 193-223, 2015."
+          }
+        ],
+        "groups": [
+          "Regulação",
+          "Gestão de Contratações"
+        ]
+      },
+      {
+        "slug": "alessandro-moraes",
+        "name": "Alessandro Moraes",
+        "role": "Delegado de Polícia Federal",
+        "photo": "/retratos/alessandro-moraes.jpg",
+        "summary": [
+          "Chefe do Setor de Operações da Superintendência da Polícia Federal no Estado do Rio de Janeiro",
+          "Elevada experiência em investigações sobre fraudes em licitações e contratos administrativos"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Bacharel em Direito pela Universidade Federal do Estado do Rio de Janeiro",
+              "Especialista em Direito Imobiliário pela Universidade Cândido Mendes",
+              "Especialista em Direito Registral pela Universidade Cândido Mendes",
+              "Chefe do Setor de Operações da Superintendência da Polícia Federal no Estado do Rio de Janeiro",
+              "Principais funções exercidas na Polícia Federal: Chefe do Núcleo de Operações; Unidade de Gestão Estratégica e Chefe do Setor de Planejamento Operacional",
+              "Elevada experiência em investigações sobre fraudes em licitações e contratos administrativos"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [
+          {
+            "ref": "MORAES, Alessandro Magalhães de. Análise dos artigos 4º e 5º do Código de Processo Penal. In: BEZERRA, Clayton da Silva; AGNOLETTO, Giovani Celso (Org.). Inquérito policial: doutrina e prática: a visão do delegado de polícia. São Paulo: Letras Jurídicas, 2014.",
+            "url": "https://letrasjuridicas.com.br/inquerito-policial-doutrina-e-pratica"
+          },
+          {
+            "ref": "MORAES, Alessandro Magalhães de. Restituição das coisas apreendidas. In: BEZERRA, Clayton da Silva; AGNOLETTO, Giovani Celso (Org.). Temas processuais penais da atualidade. São Paulo: Letras Jurídicas, 2019.",
+            "url": "https://letrasjuridicas.com.br/temas-processuais-penais-das-atualidade"
+          }
+        ],
+        "groups": []
+      },
+      {
+        "slug": "ana-moraes",
+        "name": "Ana Moraes",
+        "role": "Conselheira Substituta do TCE/RS",
+        "photo": "/retratos/ana-moraes.jpg",
+        "summary": [
+          "Mestre em Direito pela Universidade Federal do Rio Grande do Sul",
+          "Ex-Procuradora da Companhia Nacional de Abastecimento (CONAB), aprovada em 1º lugar no Concurso Público nº 01/2005"
+        ],
+        "sections": [
+          {
+            "title": "Formação e atuação",
+            "items": [
+              "Bacharela em Direito pela Universidade do Vale do Rio dos Sinos",
+              "Especialista em Direito Público pelo Centro Universitário Ritter dos Reis",
+              "Especialista em Direito Processual Civil pela Universidade Luterana do Brasil",
+              "Especialista em Direito Material e Processual do Trabalho pela Universidade do Vale do Rio dos Sinos",
+              "Especialista em Direito de Família e Sucessões pela Universidade Luterana do Brasil",
+              "Especialista em Neurociências e Comportamento pela Pontifícia Universidade Católica do Rio Grande do Sul",
+              "Mestre em Direito pela Universidade Federal do Rio Grande do Sul",
+              "Função pública anterior: Procuradora da Companhia Nacional de Abastecimento (CONAB) no Estado do Rio Grande do Sul, aprovada em 1º lugar no Concurso Público nº 01/2005"
+            ]
+          }
+        ],
+        "history": [],
+        "publications": [
+          {
+            "ref": "WARPECHOWSKI, Ana Cristina Moraes; GODINHO, Heloísa Helena Antonacio Monteiro; IOCKEN, Sabrina Nunes (Coord.). Políticas públicas e os ODS da Agenda 2030. Belo Horizonte: Fórum, 2021.",
+            "url": "https://loja.editoraforum.com.br/politicas-publicas-e-os-ods-da-agenda-2030"
+          },
+          {
+            "ref": "FIRMO FILHO, Alípio Reis; WARPECHOWSKI, Ana Cristina Moraes; RAMOS FILHO, Carlos Alberto de Moraes (Coords.). Responsabilidade na gestão fiscal: estudos em homenagem aos 20 anos da lei complementar nº 101/2000. Belo Horizonte: Fórum, 2020.",
+            "url": "https://loja.editoraforum.com.br/responsabilidade-na-gestao-fiscal"
+          },
+          {
+            "ref": "SARQUIS, Alexandre Manir Figueiredo; WARPECHOWSKI, Ana Cristina Moraes (Orgs.). Previdência e reforma em debate: estudos multidisciplinares sob a perspectiva do regime próprio. São Paulo: Lualri, 2019."
+          }
+        ],
+        "groups": [
+          "Controle"
+        ]
+      },
+      {
         "slug": "alvaro-capagio",
         "name": "Álvaro Capagio",
         "fullName": "Álvaro do Canto Capagio",
@@ -484,124 +602,6 @@
           "Regulação",
           "Gestão de Contratações",
           "Defesa e Segurança"
-        ]
-      },
-      {
-        "slug": "alessandro-moraes",
-        "name": "Alessandro Moraes",
-        "role": "Delegado de Polícia Federal",
-        "photo": "/retratos/alessandro-moraes.jpg",
-        "summary": [
-          "Chefe do Setor de Operações da Superintendência da Polícia Federal no Estado do Rio de Janeiro",
-          "Elevada experiência em investigações sobre fraudes em licitações e contratos administrativos"
-        ],
-        "sections": [
-          {
-            "title": "Formação e atuação",
-            "items": [
-              "Bacharel em Direito pela Universidade Federal do Estado do Rio de Janeiro",
-              "Especialista em Direito Imobiliário pela Universidade Cândido Mendes",
-              "Especialista em Direito Registral pela Universidade Cândido Mendes",
-              "Chefe do Setor de Operações da Superintendência da Polícia Federal no Estado do Rio de Janeiro",
-              "Principais funções exercidas na Polícia Federal: Chefe do Núcleo de Operações; Unidade de Gestão Estratégica e Chefe do Setor de Planejamento Operacional",
-              "Elevada experiência em investigações sobre fraudes em licitações e contratos administrativos"
-            ]
-          }
-        ],
-        "history": [],
-        "publications": [
-          {
-            "ref": "MORAES, Alessandro Magalhães de. Análise dos artigos 4º e 5º do Código de Processo Penal. In: BEZERRA, Clayton da Silva; AGNOLETTO, Giovani Celso (Org.). Inquérito policial: doutrina e prática: a visão do delegado de polícia. São Paulo: Letras Jurídicas, 2014.",
-            "url": "https://letrasjuridicas.com.br/inquerito-policial-doutrina-e-pratica"
-          },
-          {
-            "ref": "MORAES, Alessandro Magalhães de. Restituição das coisas apreendidas. In: BEZERRA, Clayton da Silva; AGNOLETTO, Giovani Celso (Org.). Temas processuais penais da atualidade. São Paulo: Letras Jurídicas, 2019.",
-            "url": "https://letrasjuridicas.com.br/temas-processuais-penais-das-atualidade"
-          }
-        ],
-        "groups": []
-      },
-      {
-        "slug": "ana-moraes",
-        "name": "Ana Moraes",
-        "role": "Conselheira Substituta do TCE/RS",
-        "photo": "/retratos/ana-moraes.jpg",
-        "summary": [
-          "Mestre em Direito pela Universidade Federal do Rio Grande do Sul",
-          "Ex-Procuradora da Companhia Nacional de Abastecimento (CONAB), aprovada em 1º lugar no Concurso Público nº 01/2005"
-        ],
-        "sections": [
-          {
-            "title": "Formação e atuação",
-            "items": [
-              "Bacharela em Direito pela Universidade do Vale do Rio dos Sinos",
-              "Especialista em Direito Público pelo Centro Universitário Ritter dos Reis",
-              "Especialista em Direito Processual Civil pela Universidade Luterana do Brasil",
-              "Especialista em Direito Material e Processual do Trabalho pela Universidade do Vale do Rio dos Sinos",
-              "Especialista em Direito de Família e Sucessões pela Universidade Luterana do Brasil",
-              "Especialista em Neurociências e Comportamento pela Pontifícia Universidade Católica do Rio Grande do Sul",
-              "Mestre em Direito pela Universidade Federal do Rio Grande do Sul",
-              "Função pública anterior: Procuradora da Companhia Nacional de Abastecimento (CONAB) no Estado do Rio Grande do Sul, aprovada em 1º lugar no Concurso Público nº 01/2005"
-            ]
-          }
-        ],
-        "history": [],
-        "publications": [
-          {
-            "ref": "WARPECHOWSKI, Ana Cristina Moraes; GODINHO, Heloísa Helena Antonacio Monteiro; IOCKEN, Sabrina Nunes (Coord.). Políticas públicas e os ODS da Agenda 2030. Belo Horizonte: Fórum, 2021.",
-            "url": "https://loja.editoraforum.com.br/politicas-publicas-e-os-ods-da-agenda-2030"
-          },
-          {
-            "ref": "FIRMO FILHO, Alípio Reis; WARPECHOWSKI, Ana Cristina Moraes; RAMOS FILHO, Carlos Alberto de Moraes (Coords.). Responsabilidade na gestão fiscal: estudos em homenagem aos 20 anos da lei complementar nº 101/2000. Belo Horizonte: Fórum, 2020.",
-            "url": "https://loja.editoraforum.com.br/responsabilidade-na-gestao-fiscal"
-          },
-          {
-            "ref": "SARQUIS, Alexandre Manir Figueiredo; WARPECHOWSKI, Ana Cristina Moraes (Orgs.). Previdência e reforma em debate: estudos multidisciplinares sob a perspectiva do regime próprio. São Paulo: Lualri, 2019."
-          }
-        ],
-        "groups": [
-          "Controle"
-        ]
-      },
-      {
-        "slug": "carlos-veras",
-        "name": "Carlos Veras",
-        "role": "Regulador Federal",
-        "photo": "/retratos/carlos-veras.jpg",
-        "summary": [
-          "Doutor em Economia Aplicada pela Universidade de Brasília",
-          "Especialista em Big Data and Social Analytics pelo Massachusetts Institute of Technology"
-        ],
-        "sections": [
-          {
-            "title": "Formação e atuação",
-            "items": [
-              "Bacharel em Engenharia Civil pela Universidade de Brasília",
-              "Especialista em Gestão Empresarial com ênfase em Estratégia pela Fundação Getúlio Vargas",
-              "Especialista em Big Data and Social Analytics pelo Massachusetts Institute of Technology",
-              "Especialista no Conselho Administrativo de Defesa Econômica",
-              "Mestre em Geotecnia pela Universidade de Brasília",
-              "Doutor em Economia Aplicada pela Universidade de Brasília",
-              "Autor de vários artigos científicos",
-              "Funções públicas anteriores: Auditor Interno da Companhia do Desenvolvimento do Vale do São Francisco e Parnaíba; Analista em Infraestrutura do Departamento Nacional de Infraestrutura de Transportes"
-            ]
-          }
-        ],
-        "history": [],
-        "publications": [
-          {
-            "ref": "NEVES, Carlos Eduardo Veras; BERTUSSI, Geovana Lorena. Proposta de Metodologia de Cálculo do Fator X em Contratos de Concessão para Exploração da Infraestrutura Rodoviária Federal. Revista da CGU, v. 13, p. 237-253, 2021."
-          },
-          {
-            "ref": "NEVES, Carlos Eduardo Veras; BERTUSSI, Geovana Lorena. Eficiência em concessões de rodovias federais brasileiras. Revista de Economia e Agronegócio, v. 17, p. 272-291, 2019."
-          },
-          {
-            "ref": "NEVES, Carlos Eduardo Veras; VILELA, Danilo Vieira. Reflexões sobre as novas outorgas no setor ferroviário no Brasil. Cadernos de Finanças Públicas, v. 15, p. 193-223, 2015."
-          }
-        ],
-        "groups": [
-          "Regulação",
-          "Gestão de Contratações"
         ]
       },
       {
